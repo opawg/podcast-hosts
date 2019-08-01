@@ -23,8 +23,8 @@ There's no order currently to this
 
 Podnews uses the below to extract a host's name in the "Information for podcasters" section in our podcast pages ([example](https://podnews.net/podcast/1287081706)), and our [podcast analysis](https://podnews.net/article/podcast-analysis) pages.
 
-```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE INSTR(:url,pattern) LIMIT 1");
-$stmt->execute(array(':url'=>$podcast['audiourl']));
+```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE INSTR(:url,pattern) LIMIT 1");   
+$stmt->execute(array(':url'=>$podcast['audiourl']));   
 $host = $stmt->fetch(PDO::FETCH_ASSOC);```
 
 Improvements welcome to this list; it's currently "good enough", but certainly not 100% accurate. It also falls over if audio is "hosted" on Feedburner.
