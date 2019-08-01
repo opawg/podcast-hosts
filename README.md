@@ -9,7 +9,7 @@ For now, the simplest way is to add to the file at `src/hosts.json`. Each podcas
 
 Each entry _must_ contain the following properties:
 
-* `pattern`: a unique string to spot within the URL
+* `pattern`: a unique string to spot within the audio URL (more accurately, within the domain portion of the URL)
 
 * `hostname`: a humanly-readable name of the podcast that this is hosted with
 
