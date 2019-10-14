@@ -10,6 +10,7 @@
 {"pattern":"content.blubrry.com","hostname":"Blubrry","hosturl":"https:\/\/www.blubrry.com\/"},
 {"pattern":"buzzsprout.com","hostname":"Buzzsprout","hosturl":"https:\/\/www.buzzsprout.com\/"},
 {"pattern":"cast.plus","hostname":"Cast Plus","hosturl":"https:\/\/www.cast.plus\/"},
+{"pattern":"s3.castbox.fm","hostname":"Castbox","hosturl":"https:\/\/castbox.fm\/"},
 {"pattern":"cbsradionewsfeed.com","hostname":"CBS Radio News","hosturl":"https:\/\/www.cbsnews.com\/"},
 {"pattern":"audio.hosting.thisisdax.com","hostname":"DAX","hosturl":"https:\/\/thisisdax.com\/"},
 {"pattern":"entale.co","hostname":"Entale","hosturl":"https:\/\/www.entale.co\/"},
