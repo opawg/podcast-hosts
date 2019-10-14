@@ -26,6 +26,7 @@
 {"pattern":"noxsolutions.com","hostname":"Nox Solutions","hosturl":"https:\/\/noxsolutions.com\/podcasting"},
 {"pattern":"omnystudio.com","hostname":"Omny Studio","hosturl":"https:\/\/omnystudio.com\/learn"},
 {"pattern":"omny.fm","hostname":"Omny Studio","hosturl":"https:\/\/omnystudio.com\/learn"},
+{"pattern":"pinecast.com\/listen","hostname":"Pinecast","hosturl":"https:\/\/www.pinecast.com\/"},
 {"pattern":"pippa.io","hostname":"Pippa","hosturl":"http:\/\/pippa.io\/"},
 {"pattern":".podbean.com","hostname":"Podbean","hosturl":"https:\/\/www.podbean.com\/"},
 {"pattern":"cdn.podcasts.com","hostname":"podcasts.com","hosturl":"http:\/\/www.podcasts.com"},
