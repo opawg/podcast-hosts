@@ -40,6 +40,7 @@
 {"pattern":"dovetail.prxu.org","hostname":"PRX","hosturl":"https:\/\/www.prx.org\/"},
 {"pattern":"rf.proxycast.org","hostname":"Radio France","hosturl":"https:\/\/www.radiofrance.fr\/"},
 {"pattern":"radionz.co.nz","hostname":"Radio New Zealand","hosturl":"https:\/\/www.radionz.co.nz\/"},
+{"pattern":"sharp-stream.com","hostname":"Sharpstream","hosturl":"https:\/\/www.sharp-stream.com\/"},
 {"pattern":"simplecast.com","hostname":"Simplecast","hosturl":"https:\/\/simplecast.com\/"},
 {"pattern":"feeds.soundcloud.com","hostname":"Soundcloud","hosturl":"https:\/\/soundcloud.com\/stream"},
 {"pattern":"spreaker.com","hostname":"Spreaker","hosturl":"https:\/\/www.spreaker.com\/"},
