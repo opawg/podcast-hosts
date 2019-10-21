@@ -9,6 +9,7 @@
 {"pattern":"bbc.co.uk","hostname":"BBC","hosturl":"https:\/\/www.bbc.co.uk"},
 {"pattern":"content.blubrry.com","hostname":"Blubrry","hosturl":"https:\/\/www.blubrry.com\/"},
 {"pattern":"buzzsprout.com","hostname":"Buzzsprout","hosturl":"https:\/\/www.buzzsprout.com\/"},
+{"pattern":"podcasts.captivate.fm\/media","hostname":"Captivate","hosturl":"https:\/\/www.captivate.fm\/"},
 {"pattern":"cast.plus","hostname":"Cast Plus","hosturl":"https:\/\/www.cast.plus\/"},
 {"pattern":"s3.castbox.fm","hostname":"Castbox","hosturl":"https:\/\/castbox.fm\/"},
 {"pattern":"episodes.castos.com","hostname":"Castos","hosturl":"https:\/\/castos.com"},
