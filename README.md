@@ -15,10 +15,6 @@ Each entry _must_ contain the following properties:
 
 * `hosturl`: a website link (escaped) that links to the homepage of the podcast host.
 
-## Parsing order
-
-There's no order currently to this
-
 ## Code sample
 
 Podnews uses the below to extract a host's name in the "Information for podcasters" section in our podcast pages ([example](https://podnews.net/podcast/1287081706)), and our [podcast analysis](https://podnews.net/article/podcast-analysis) pages.
@@ -27,5 +23,4 @@ Podnews uses the below to extract a host's name in the "Information for podcaste
 $stmt->execute(array(':url'=>$podcast['audiourl']));   
 $host = $stmt->fetch(PDO::FETCH_ASSOC);```
 
-Improvements welcome to this list; it's currently "good enough", but certainly not 100% accurate. It also falls over if audio is "hosted" on Feedburner.
-
+Improvements are welcome. This list won't adequately spot original hosts via Feedburner or similar, but otherwise will catch most podcasts.
