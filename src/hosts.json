@@ -54,4 +54,11 @@
 {"pattern":"whooshkaa.com","hostname":"Whooshkaa","hosturl":"https:\/\/www.whooshkaa.com\/"},
 {"pattern":"castfire.com","hostname":"Wide Orbit","hosturl":"https:\/\/www.wideorbit.com\/"},
 {"pattern":"wnyc.org","hostname":"WNYC","hosturl":"https:\/\/www.wnyc.org\/"},
-{"pattern":"megafono.host","hostname":"Megafono","hosturl":"https:\/\/www.megafono.host\/"}]
+{"pattern":"megafono.host","hostname":"Megafono","hosturl":"https:\/\/www.megafono.host\/"},
+{"pattern":"blogtalkradio.com","hostname":"Blog Talk Radio","hosturl":"https:\/\/www.blogtalkradio.com\/"},
+{"pattern":".podomatic.com\/enclsoure","hostname":"Podomatic","hosturl":"https:\/\/www.podomatic.com\/"},
+{"pattern":".hipcast.com","hostname":"Hipcast","hosturl":"https:\/\/www.hipcast.com\/"},
+{"pattern":"talkshoe.com","hostname":"Talkshoe","hosturl":"https:\/\/www.talkshoe.com\/"},
+{"pattern":"podcastgarden.com","hostname":"Podcast Garden","hosturl":"https:\/\/www.podcastgarden.com\/"},
+{"pattern":"podpoint.com\/download","hostname":"PodPoint","hosturl":"https:\/\/www.podpoint.com\/"},
+{"pattern":"backtracks.fm","hostname":"Backtracks","hosturl":"https:\/\/backtracks.fm\/"}]
