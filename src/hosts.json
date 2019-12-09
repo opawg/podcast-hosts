@@ -31,6 +31,7 @@
 {"pattern":"megafono.host","hostname":"Megafono","hosturl":"https:\/\/www.megafono.host\/"},
 {"pattern":"megaphone.fm","hostname":"Megaphone","hosturl":"http:\/\/megaphone.fm"},
 {"pattern":"messy.fm","hostname":"Messy","hosturl":"https:\/\/www.messy.fm"},
+ {"pattern":"nrjaudio.fm","hostname":"NRJ-Group","hosturl":"https:\/\/www.nrjgroup.fr/"},
 {"pattern":"noxsolutions.com","hostname":"Nox Solutions","hosturl":"https:\/\/noxsolutions.com\/podcasting"},
 {"pattern":"omnystudio.com","hostname":"Omny Studio","hosturl":"https:\/\/omnystudio.com\/learn"},
 {"pattern":"omny.fm","hostname":"Omny Studio","hosturl":"https:\/\/omnystudio.com\/learn"},
