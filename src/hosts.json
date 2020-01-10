@@ -39,6 +39,7 @@
 {"pattern":"pinecast.com\/listen","hostname":"Pinecast","hosturl":"https:\/\/www.pinecast.com\/"},
 {"pattern":"pippa.io","hostname":"Pippa","hosturl":"http:\/\/pippa.io\/"},
 {"pattern":".podbean.com","hostname":"Podbean","hosturl":"https:\/\/www.podbean.com\/"},
+{"pattern":"downloads.pod.co","hostname":"Podcast.co","hosturl":"https:\/\/www.podcast.co\/"},
 {"pattern":"podcastgarden.com","hostname":"Podcast Garden","hosturl":"https:\/\/www.podcastgarden.com\/h\/en\/"},
 {"pattern":"cdn.podcasts.com","hostname":"podcasts.com","hosturl":"http:\/\/www.podcasts.com"},
 {"pattern":"podcaststudios.co.za","hostname":"podcaststudios.co.za","hosturl":"https:\/\/podcaststudios.co.za"},
