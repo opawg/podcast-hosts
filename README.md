@@ -13,7 +13,13 @@ Each entry _must_ contain the following properties:
 
 * `hostname`: a humanly-readable name of the podcast that this is hosted with
 
+* `retailer`: a boolean showing whether podcasters can buy hosting on this podcast host (BBC isn't; Libsyn is).
+
 * `hosturl`: a website link (escaped) that links to the homepage of the podcast host.
+
+Each entry _can_ contain the following properties:
+
+* `privacyhosturl`: a link to the privacy policy of the podcast host
 
 ## Code sample
 
