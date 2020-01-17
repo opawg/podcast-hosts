@@ -33,6 +33,7 @@
 {"pattern":"megaphone.fm","hostname":"Megaphone","retailer":"1","hosturl":"http:\/\/megaphone.fm","hostprivacyurl":"https:\/\/www.megaphone.fm\/terms\/privacy"},
 {"pattern":"messy.fm","hostname":"Messy","retailer":"1","hosturl":"https:\/\/www.messy.fm","hostprivacyurl":"https:\/\/www.messy.fm\/privacy"},
 {"pattern":"noxsolutions.com","hostname":"Nox Solutions","retailer":"0","hosturl":"https:\/\/noxsolutions.com\/podcasting","hostprivacyurl":""},
+{"pattern":"pod.npr.org","hostname":"NPR","retailer":"0","hosturl":"https:\/\/www.npr.org\/","hostprivacyurl":"https:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy"},
 {"pattern":"nrjaudio.fm","hostname":"NRJ-Group","retailer":"0","hosturl":"https:\/\/www.nrjgroup.fr\/","hostprivacyurl":"https:\/\/www.nrjgroup.fr\/politique-de-confidentialite\/"},
 {"pattern":"omnystudio.com","hostname":"Omny Studio","retailer":"1","hosturl":"https:\/\/omnystudio.com\/learn","hostprivacyurl":"https:\/\/omnystudio.com\/policies\/privacy"},
 {"pattern":"omny.fm","hostname":"Omny Studio","retailer":"1","hosturl":"https:\/\/omnystudio.com\/learn","hostprivacyurl":"https:\/\/omnystudio.com\/policies\/privacy"},
