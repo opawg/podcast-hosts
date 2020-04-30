@@ -15,6 +15,8 @@ Each entry _must_ contain the following properties:
 
 * `retailer`: a boolean showing whether podcasters can buy hosting on this podcast host (BBC isn't; Libsyn is).
 
+* `iab`: a boolean showing whether a podcast host is able to offer [IAB Certified Compliant statistics](https://iabtechlab.com/compliance-programs/compliant-companies/#podcast). This does not mean that all statistics from this host are certified compliant.
+
 * `hosturl`: a website link (escaped) that links to the homepage of the podcast host.
 
 Each entry _can_ contain the following properties:
