@@ -13,7 +13,7 @@
 {"pattern":"blogtalkradio.com","hostname":"Blog Talk Radio","retailer":"1","iab":"0","hosturl":"https:\/\/www.blogtalkradio.com\/","hostprivacyurl":"https:\/\/www.blogtalkradio.com\/page\/termsofuse#privacy"},
 {"pattern":"content.blubrry.com","hostname":"Blubrry","retailer":"1","iab":"1","hosturl":"https:\/\/www.blubrry.com\/","hostprivacyurl":"https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"},
 {"pattern":"buzzsprout.com","hostname":"Buzzsprout","retailer":"1","iab":"0","hosturl":"https:\/\/www.buzzsprout.com\/","hostprivacyurl":"https:\/\/www.buzzsprout.com\/privacy"},
-{"pattern":"podcasts.captivate.fm\/media","hostname":"Captivate","retailer":"1","iab":"0","hosturl":"https:\/\/www.captivate.fm\/","hostprivacyurl":"https:\/\/www.captivate.fm\/privacy\/"},
+{"pattern":"podcasts.captivate.fm\/media","hostname":"Captivate","retailer":"1","iab":"1","hosturl":"https:\/\/www.captivate.fm\/","hostprivacyurl":"https:\/\/www.captivate.fm\/privacy\/"},
 {"pattern":"cast.plus","hostname":"Cast Plus","retailer":"1","iab":"0","hosturl":"https:\/\/www.cast.plus\/","hostprivacyurl":""},
 {"pattern":"s3.castbox.fm","hostname":"Castbox","retailer":"1","iab":"0","hosturl":"https:\/\/castbox.fm\/","hostprivacyurl":"https:\/\/castbox.fm\/policy.html"},
 {"pattern":"episodes.castos.com","hostname":"Castos","retailer":"1","iab":"0","hosturl":"https:\/\/castos.com","hostprivacyurl":"https:\/\/castos.com\/privacy\/"},
