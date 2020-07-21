@@ -32,7 +32,7 @@
 {"pattern":"leanstream.co\/","hostname":"leanStream","retailer":"1","iab":"0","hosturl":"https:\/\/www.leanstream.net\/","hostprivacyurl":"https:\/\/www.leanstream.net\/privacy\/index.html"},
 {"pattern":"traffic.libsyn.com","hostname":"Libsyn","retailer":"1","iab":"1","hosturl":"https:\/\/www.libsyn.com\/","hostprivacyurl":"https:\/\/libsyn.com\/tos-policies\/legal\/"},
 {"pattern":"megafono.host","hostname":"Megafono","retailer":"1","iab":"0","hosturl":"https:\/\/www.megafono.host\/","hostprivacyurl":""},
-{"pattern":"megaphone.fm","hostname":"Megaphone","retailer":"1","iab":"0","hosturl":"http:\/\/megaphone.fm","hostprivacyurl":"https:\/\/www.megaphone.fm\/terms\/privacy"},
+{"pattern":"megaphone.fm","hostname":"Megaphone","retailer":"1","iab":"1","hosturl":"https:\/\/www.megaphone.fm","hostprivacyurl":"https:\/\/www.megaphone.fm\/terms\/privacy"},
 {"pattern":"messy.fm","hostname":"Messy","retailer":"1","iab":"0","hosturl":"https:\/\/www.messy.fm","hostprivacyurl":"https:\/\/www.messy.fm\/privacy"},
 {"pattern":"noxsolutions.com","hostname":"Nox Solutions","retailer":"0","iab":"0","hosturl":"https:\/\/noxsolutions.com\/podcasting","hostprivacyurl":""},
 {"pattern":"pod.npr.org","hostname":"NPR","retailer":"0","iab":"1","hosturl":"https:\/\/www.npr.org\/","hostprivacyurl":"https:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy"},
