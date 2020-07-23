@@ -54,6 +54,7 @@
 {"pattern":"rf.proxycast.org","hostname":"Radio France","retailer":"0","iab":"0","hosturl":"https:\/\/www.radiofrance.fr\/","hostprivacyurl":"https:\/\/www.radiofrance.fr\/protection-des-donnees"},
 {"pattern":"radionz.co.nz","hostname":"Radio New Zealand","retailer":"0","iab":"0","hosturl":"https:\/\/www.radionz.co.nz\/","hostprivacyurl":"https:\/\/www.rnz.co.nz\/about\/digitalprivacypolicy"},
 {"pattern":"redcircle.com","hostname":"RedCircle","retailer":"1","iab":"0","hosturl":"https:\/\/redcircle.com\/","hostprivacyurl":"https:\/\/redcircle.com\/privacy"},
+{"pattern":"rss.com","hostname":"RSS Podcasting","retailer":"1","iab":"0","hosturl":"https:\/\/rss.com\/","hostprivacyurl":"https:\/\/rss.com\/privacy-policy"},
 {"pattern":".rtve.es\/","hostname":"RTVE","retailer":"0","iab":"0","hosturl":"http:\/\/www.rtve.es\/","hostprivacyurl":""},
 {"pattern":"sharp-stream.com","hostname":"Sharpstream","retailer":"1","iab":"0","hosturl":"https:\/\/www.sharp-stream.com\/","hostprivacyurl":""},
 {"pattern":"simplecast.com","hostname":"Simplecast","retailer":"1","iab":"1","hosturl":"https:\/\/simplecast.com\/","hostprivacyurl":"https:\/\/simplecast.com\/privacy\/"},
