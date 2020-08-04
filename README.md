@@ -3,6 +3,12 @@ A JSON list of podcast hosts and a pattern to use in audio URLs
 
 If you have the URL of a podcast's audio file, this JSON file will help you work out who the host is.
 
+## Images
+
+Each podcast host has an image, in optimised .png format. The filename is programmatically calculated from the podcast host's name, in lower case, with non-alphanumeric characters encoded as a "-". Here's our ugly code:
+
+`$imageFilename=str_replace(' ','-',str_replace('.','-',strtolower($host['hostname'])));`
+
 ## Contributing to the list
 
 For now, the simplest way is to add to the file at `src/hosts.json`. Each podcast host may have multiple entries, but the URL patterns should be unique.
