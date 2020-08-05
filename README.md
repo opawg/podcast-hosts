@@ -27,14 +27,16 @@ Each entry _must_ contain the following properties:
 
 Each entry _can_ contain the following properties:
 
+* `rss-pattern`: an ADDITIONAL pattern for the RSS URL, to help with cases like LibsynPro which uses the same infrastructure for hosting retail and non-retail shows
+
 * `privacyhosturl`: a link to the privacy policy of the podcast host
 
 ## Code sample
 
 Podnews uses the below to extract a host's name in the "Information for podcasters" section in our podcast pages ([example](https://podnews.net/podcast/1287081706)), and our [podcast analysis](https://podnews.net/article/podcast-analysis) pages.
 
-```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE INSTR(:url,pattern) LIMIT 1");   
-$stmt->execute(array(':url'=>$podcast['audiourl']));   
+```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` DESC LIMIT 1");   
+$stmt->execute(array(':url'=>$podcast['audiourl'],':rssurl'=>$podcast['feedUrl']));
 $host = $stmt->fetch(PDO::FETCH_ASSOC);```
 
 Improvements are welcome. This list won't adequately spot original hosts via Feedburner or similar, but otherwise will catch most podcasts.
