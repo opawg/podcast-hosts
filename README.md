@@ -1,7 +1,7 @@
 # podcast-hosts
-A JSON list of podcast hosts and a pattern to use in audio URLs
+A JSON list of podcast hosts, and the patterns they use in audio URLs.
 
-If you have the URL of a podcast's audio file, this JSON file will help you work out who the host is.
+If you have the URL of a podcast's audio file, this JSON file will help you work out who the host is; and abilities that host may have that may impact listener privacy.
 
 ## Images
 
@@ -37,9 +37,11 @@ Each entry _can_ contain the following properties:
 
 * `privacyhosturl`: a link to the privacy policy of the podcast host
 
+* `notes`: a freeform text link with details of evidence of 'abilities' claims. Ideally, all podcast hosts that have these indicated will have evidence in this field.
+
 ## Code sample
 
-Podnews uses the below to extract a host's name in podcast pages ([example](https://podnews.net/podcast/1287081706)).
+Podnews uses the below to extract a host's name, and privacy details, in podcast pages ([example](https://podnews.net/podcast/1287081706)).
 
 ```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` DESC LIMIT 1");   
 $stmt->execute(array(':url'=>$podcast['audiourl'],':rssurl'=>$podcast['feedUrl']));
