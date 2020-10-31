@@ -5,6 +5,9 @@
         "hostname": "ABC Australia",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.abc.net.au",
         "hostprivacyurl": "https:\/\/about.abc.net.au\/abc-privacy-policy\/"
     },
@@ -14,6 +17,9 @@
         "hostname": "Acast",
         "retailer": "0",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
         "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy"
     },
@@ -23,6 +29,9 @@
         "hostname": "Acast Open",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
         "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy"
     },
@@ -32,6 +41,9 @@
         "hostname": "American Public Media",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.americanpublicmedia.org\/",
         "hostprivacyurl": "https:\/\/www.americanpublicmedia.org\/privacy\/"
     },
@@ -41,6 +53,9 @@
         "hostname": "Anchor",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/anchor.fm",
         "hostprivacyurl": "https:\/\/anchor.fm\/privacy"
     },
@@ -50,6 +65,9 @@
         "hostname": "ART19",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "http:\/\/www.art19.com\/",
         "hostprivacyurl": "https:\/\/art19.com\/privacy"
     },
@@ -59,6 +77,9 @@
         "hostname": "Audioboom",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/audioboom.com\/",
         "hostprivacyurl": "https:\/\/audioboom.com\/about\/privacy"
     },
@@ -68,6 +89,9 @@
         "hostname": "Ausha",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.ausha.co\/",
         "hostprivacyurl": "https:\/\/www.ausha.co\/protection-personal-data\/"
     },
@@ -77,6 +101,9 @@
         "hostname": "Awesound",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/awesound.com\/",
         "hostprivacyurl": "https:\/\/awesound.com\/terms"
     },
@@ -86,6 +113,9 @@
         "hostname": "Backtracks",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/backtracks.fm\/",
         "hostprivacyurl": "https:\/\/backtracks.fm\/legal\/privacy"
     },
@@ -95,6 +125,9 @@
         "hostname": "Bauer Media Group",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.bauermedia.co.uk\/",
         "hostprivacyurl": "https:\/\/www.bauerlegal.co.uk\/privacy-policy-20180703"
     },
@@ -104,6 +137,9 @@
         "hostname": "BBC",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.bbc.co.uk",
         "hostprivacyurl": "https:\/\/www.bbc.co.uk\/usingthebbc\/privacy\/"
     },
@@ -113,6 +149,9 @@
         "hostname": "bCast",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/bcast.fm",
         "hostprivacyurl": "https:\/\/bcast.fm\/privacy"
     },
@@ -122,6 +161,9 @@
         "hostname": "Blog Talk Radio",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.blogtalkradio.com\/",
         "hostprivacyurl": "https:\/\/www.blogtalkradio.com\/page\/termsofuse#privacy"
     },
@@ -131,6 +173,9 @@
         "hostname": "Blubrry",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.blubrry.com\/",
         "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"
     },
@@ -140,6 +185,9 @@
         "hostname": "Blubrry",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.blubrry.com\/",
         "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"
     },
@@ -149,6 +197,9 @@
         "hostname": "Buzzsprout",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.buzzsprout.com\/",
         "hostprivacyurl": "https:\/\/www.buzzsprout.com\/privacy"
     },
@@ -158,6 +209,9 @@
         "hostname": "Captivate",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.captivate.fm\/",
         "hostprivacyurl": "https:\/\/www.captivate.fm\/privacy\/"
     },
@@ -167,6 +221,9 @@
         "hostname": "Castbox",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/castbox.fm\/",
         "hostprivacyurl": "https:\/\/castbox.fm\/policy.html"
     },
@@ -176,6 +233,9 @@
         "hostname": "Castos",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/castos.com",
         "hostprivacyurl": "https:\/\/castos.com\/privacy\/"
     },
@@ -185,6 +245,9 @@
         "hostname": "CBS Radio News",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.cbsnews.com\/",
         "hostprivacyurl": "https:\/\/www.cbsinteractive.com\/legal\/cbsi\/privacy-policy\/highlights"
     },
@@ -194,6 +257,9 @@
         "hostname": "DAX",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/thisisdax.com\/",
         "hostprivacyurl": "https:\/\/global.com\/privacy-policy\/"
     },
@@ -203,6 +269,9 @@
         "hostname": "Entale",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.entale.co\/",
         "hostprivacyurl": "https:\/\/www.entale.co\/privacy"
     },
@@ -212,6 +281,9 @@
         "hostname": "ESPN Radio",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.espn.com",
         "hostprivacyurl": "https:\/\/privacy.thewaltdisneycompany.com\/en\/"
     },
@@ -221,6 +293,9 @@
         "hostname": "Europe 1",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.europe1.fr\/",
         "hostprivacyurl": "https:\/\/www.europe1.fr\/cgu"
     },
@@ -230,6 +305,9 @@
         "hostname": "Fireside",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/fireside.fm\/",
         "hostprivacyurl": "https:\/\/fireside.fm\/privacy"
     },
@@ -239,6 +317,9 @@
         "hostname": "Freecaster",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/freecaster.com\/",
         "hostprivacyurl": "http:\/\/freecaster.com\/privacy\/"
     },
@@ -248,6 +329,9 @@
         "hostname": "Hipcast",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.hipcast.com\/",
         "hostprivacyurl": "https:\/\/www.hipcast.com\/signup\/privacy.htm"
     },
@@ -257,6 +341,9 @@
         "hostname": "iVoox",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.ivoox.com\/",
         "hostprivacyurl": "https:\/\/www.ivoox.com\/informacion-legal_il.html"
     },
@@ -266,6 +353,9 @@
         "hostname": "knit",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/knit.audio",
         "hostprivacyurl": ""
     },
@@ -275,6 +365,9 @@
         "hostname": "Kuku",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/kuku.postimees.ee\/",
         "hostprivacyurl": ""
     },
@@ -284,6 +377,9 @@
         "hostname": "leanStream",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.leanstream.net\/",
         "hostprivacyurl": "https:\/\/www.leanstream.net\/privacy\/index.html"
     },
@@ -293,6 +389,9 @@
         "hostname": "Libsyn",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.libsyn.com\/",
         "hostprivacyurl": "https:\/\/libsyn.com\/tos-policies\/legal\/"
     },
@@ -302,6 +401,9 @@
         "hostname": "LibsynPro",
         "retailer": "0",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/libsynpro.com\/",
         "hostprivacyurl": "https:\/\/libsynpro.com\/terms-of-service\/"
     },
@@ -311,6 +413,9 @@
         "hostname": "Megafono",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.megafono.host\/",
         "hostprivacyurl": ""
     },
@@ -320,6 +425,9 @@
         "hostname": "Megaphone",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.megaphone.fm",
         "hostprivacyurl": "https:\/\/www.megaphone.fm\/terms\/privacy"
     },
@@ -329,6 +437,9 @@
         "hostname": "Messy",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.messy.fm",
         "hostprivacyurl": "https:\/\/www.messy.fm\/privacy"
     },
@@ -338,6 +449,9 @@
         "hostname": "Nox Solutions",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/noxsolutions.com\/podcasting",
         "hostprivacyurl": ""
     },
@@ -347,6 +461,9 @@
         "hostname": "NPR",
         "retailer": "0",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.npr.org\/",
         "hostprivacyurl": "https:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy"
     },
@@ -356,6 +473,9 @@
         "hostname": "NRJ-Group",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.nrjgroup.fr\/",
         "hostprivacyurl": "https:\/\/www.nrjgroup.fr\/politique-de-confidentialite\/"
     },
@@ -365,6 +485,9 @@
         "hostname": "Omny Studio",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/omnystudio.com\/learn",
         "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy"
     },
@@ -374,6 +497,9 @@
         "hostname": "Omny Studio",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/omnystudio.com\/learn",
         "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy"
     },
@@ -383,6 +509,9 @@
         "hostname": "Pinecast",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.pinecast.com\/",
         "hostprivacyurl": ""
     },
@@ -392,6 +521,9 @@
         "hostname": "Podbean",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.podbean.com\/",
         "hostprivacyurl": "https:\/\/www.podbean.com\/privacy"
     },
@@ -401,6 +533,9 @@
         "hostname": "Podcast Websites",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podcastwebsites.com\/",
         "hostprivacyurl": "https:\/\/www.iubenda.com\/privacy-policy\/22992030"
     },
@@ -410,6 +545,9 @@
         "hostname": "Podcast.co",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.podcast.co\/",
         "hostprivacyurl": "https:\/\/www.podcast.co\/privacy"
     },
@@ -419,6 +557,9 @@
         "hostname": "podcasts.com",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.podcasts.com",
         "hostprivacyurl": "https:\/\/www.podcasts.com\/pages\/legal"
     },
@@ -428,6 +569,9 @@
         "hostname": "podcaststudios.co.za",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podcaststudios.co.za",
         "hostprivacyurl": ""
     },
@@ -437,6 +581,9 @@
         "hostname": "Podiant",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podiant.co\/",
         "hostprivacyurl": "https:\/\/podiant.co\/privacy\/"
     },
@@ -446,6 +593,9 @@
         "hostname": "Podigee",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.podigee.com\/",
         "hostprivacyurl": "https:\/\/www.podigee.com\/en\/about\/privacy\/"
     },
@@ -455,6 +605,9 @@
         "hostname": "Podmio",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podmio.com\/",
         "hostprivacyurl": ""
     },
@@ -464,6 +617,9 @@
         "hostname": "Podnews",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podnews.net\/",
         "hostprivacyurl": "https:\/\/podnews.net\/about"
     },
@@ -473,6 +629,9 @@
         "hostname": "Podomatic",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.podomatic.com\/",
         "hostprivacyurl": "https:\/\/www.podomatic.com\/about\/privacy"
     },
@@ -482,6 +641,9 @@
         "hostname": "PodPoint",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podpoint.com\/",
         "hostprivacyurl": ""
     },
@@ -491,6 +653,9 @@
         "hostname": "Podspace",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/pod.space\/",
         "hostprivacyurl": "https:\/\/pod.space\/privacy"
     },
@@ -500,6 +665,9 @@
         "hostname": "PRX",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.prx.org\/",
         "hostprivacyurl": "https:\/\/www.prx.org\/privacy-policy"
     },
@@ -509,6 +677,9 @@
         "hostname": "Radio France",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.radiofrance.fr\/",
         "hostprivacyurl": "https:\/\/www.radiofrance.fr\/protection-des-donnees"
     },
@@ -518,6 +689,9 @@
         "hostname": "Radio New Zealand",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.radionz.co.nz\/",
         "hostprivacyurl": "https:\/\/www.rnz.co.nz\/about\/digitalprivacypolicy"
     },
@@ -527,6 +701,9 @@
         "hostname": "RedCircle",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/redcircle.com\/",
         "hostprivacyurl": "https:\/\/redcircle.com\/privacy"
     },
@@ -536,6 +713,9 @@
         "hostname": "RSS Podcasting",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/rss.com",
         "hostprivacyurl": "https:\/\/rss.com\/privacy-policy"
     },
@@ -545,6 +725,9 @@
         "hostname": "RTVE",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.rtve.es\/",
         "hostprivacyurl": ""
     },
@@ -554,6 +737,9 @@
         "hostname": "Sharpstream",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.sharp-stream.com\/",
         "hostprivacyurl": ""
     },
@@ -563,6 +749,9 @@
         "hostname": "Simplecast",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/simplecast.com\/",
         "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/"
     },
@@ -572,6 +761,9 @@
         "hostname": "Simplecast",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/simplecast.com\/",
         "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/"
     },
@@ -581,6 +773,9 @@
         "hostname": "Soundcloud",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/soundcloud.com\/stream",
         "hostprivacyurl": "https:\/\/soundcloud.com\/pages\/privacy"
     },
@@ -590,6 +785,9 @@
         "hostname": "Sounder",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/sounder.fm\/",
         "hostprivacyurl": "https:\/\/sounder.fm\/privacy-policy\/"
     },
@@ -599,6 +797,9 @@
         "hostname": "Spreaker",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.spreaker.com\/",
         "hostprivacyurl": "https:\/\/www.spreaker.com\/privacy"
     },
@@ -608,6 +809,9 @@
         "hostname": "Squarespace",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.squarespace.com\/",
         "hostprivacyurl": "https:\/\/www.squarespace.com\/privacy"
     },
@@ -617,6 +821,9 @@
         "hostname": "StreamGuys",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.streamguys.com\/",
         "hostprivacyurl": "https:\/\/www.streamguys.com\/privacy"
     },
@@ -626,6 +833,9 @@
         "hostname": "Talkshoe",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.talkshoe.com\/",
         "hostprivacyurl": "https:\/\/www.talkshoe.com\/privacy_policy"
     },
@@ -635,6 +845,9 @@
         "hostname": "This American Life",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.thisamericanlife.org\/",
         "hostprivacyurl": "https:\/\/www.thisamericanlife.org\/page\/privacy-policy"
     },
@@ -644,6 +857,9 @@
         "hostname": "This Is Distorted",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/thisisdistorted.com\/",
         "hostprivacyurl": ""
     },
@@ -653,6 +869,9 @@
         "hostname": "Transistor",
         "retailer": "1",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/transistor.fm\/",
         "hostprivacyurl": "https:\/\/transistor.fm\/privacy"
     },
@@ -662,6 +881,9 @@
         "hostname": "Triton Digital",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.tritondigital.com\/",
         "hostprivacyurl": "https:\/\/www.tritondigital.com\/privacy-policies"
     },
@@ -671,6 +893,9 @@
         "hostname": "VRT",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.vrt.be\/nl\/",
         "hostprivacyurl": "https:\/\/www.vrt.be\/nl\/info\/privacy\/"
     },
@@ -680,6 +905,9 @@
         "hostname": "Whooshkaa",
         "retailer": "1",
         "iab": "1",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.whooshkaa.com\/",
         "hostprivacyurl": "https:\/\/www.whooshkaa.com\/privacy-policy\/"
     },
@@ -689,6 +917,9 @@
         "hostname": "Wide Orbit",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.wideorbit.com\/",
         "hostprivacyurl": "https:\/\/www.wideorbit.com\/privacy"
     },
@@ -698,6 +929,9 @@
         "hostname": "WNYC",
         "retailer": "0",
         "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.wnyc.org\/",
         "hostprivacyurl": "https:\/\/www.wnyc.org\/privacy\/"
     }
