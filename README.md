@@ -23,6 +23,12 @@ Each entry _must_ contain the following properties:
 
 * `iab`: a boolean showing whether a podcast host is able to offer [IAB Certified Compliant statistics](https://iabtechlab.com/compliance-programs/compliant-companies/#podcast). This does not mean that all statistics from this host are certified compliant.
 
+* `abilities_stats`: a boolean showing whether this podcast host uses its logs to provide stats
+
+* `abilities_tracking`: a boolean showing whether this podcast host uses its logs to provide tracking and attribution
+
+* `abilities_dynamicaudio`: a boolean showing whether this podcast host is capable of dynamic content insertion, used for advertising or content.
+
 * `hosturl`: a website link (escaped) that links to the homepage of the podcast host.
 
 Each entry _can_ contain the following properties:
@@ -33,7 +39,7 @@ Each entry _can_ contain the following properties:
 
 ## Code sample
 
-Podnews uses the below to extract a host's name in the "Information for podcasters" section in our podcast pages ([example](https://podnews.net/podcast/1287081706)), and our [podcast analysis](https://podnews.net/article/podcast-analysis) pages.
+Podnews uses the below to extract a host's name in podcast pages ([example](https://podnews.net/podcast/1287081706)).
 
 ```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` DESC LIMIT 1");   
 $stmt->execute(array(':url'=>$podcast['audiourl'],':rssurl'=>$podcast['feedUrl']));
