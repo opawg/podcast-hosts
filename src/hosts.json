@@ -75,7 +75,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "http:\/\/www.art19.com\/",
         "hostprivacyurl": "https:\/\/art19.com\/privacy",
-        "notes": ""
+        "notes": "Dynamic ads described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/"
     },
     {
         "pattern": "audioboom.com",
@@ -88,7 +88,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/audioboom.com\/",
         "hostprivacyurl": "https:\/\/audioboom.com\/about\/privacy",
-        "notes": ""
+        "notes": "DAI described https:\/\/audioboom.com\/advertisers"
     },
     {
         "pattern": "ausha.co",
@@ -149,11 +149,11 @@
         "retailer": "0",
         "iab": "0",
         "abilities_stats": "1",
-        "abilities_tracking": "0",
+        "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.bbc.co.uk",
         "hostprivacyurl": "https:\/\/www.bbc.co.uk\/usingthebbc\/privacy\/",
-        "notes": ""
+        "notes": "BBC uses Acast technology outside the UK"
     },
     {
         "pattern": "media.bcast.fm",
@@ -283,7 +283,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/thisisdax.com\/",
         "hostprivacyurl": "https:\/\/global.com\/privacy-policy\/",
-        "notes": ""
+        "notes": "Dynamic ad insertion: https:\/\/thisisdax.com\/podcasts\/"
     },
     {
         "pattern": "entale.co",
@@ -465,7 +465,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.megaphone.fm",
         "hostprivacyurl": "https:\/\/www.megaphone.fm\/terms\/privacy",
-        "notes": ""
+        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/"
     },
     {
         "pattern": "messy.fm",
@@ -530,7 +530,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/omnystudio.com\/learn",
         "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy",
-        "notes": ""
+        "notes": "DAI: https:\/\/internetfolks.com\/best-podcast-hosting-for-monetization\/"
     },
     {
         "pattern": "omny.fm",
@@ -543,7 +543,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/omnystudio.com\/learn",
         "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy",
-        "notes": ""
+        "notes": "DAI: https:\/\/internetfolks.com\/best-podcast-hosting-for-monetization\/"
     },
     {
         "pattern": "pinecast.com\/listen",
@@ -569,7 +569,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.podbean.com\/",
         "hostprivacyurl": "https:\/\/www.podbean.com\/privacy",
-        "notes": ""
+        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/"
     },
     {
         "pattern": "podcastwebsites.com",
@@ -647,7 +647,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.podigee.com\/",
         "hostprivacyurl": "https:\/\/www.podigee.com\/en\/about\/privacy\/",
-        "notes": ""
+        "notes": "DAI: https:\/\/internetfolks.com\/best-podcast-hosting-for-monetization\/"
     },
     {
         "pattern": "podmiodotcom.s3.amazonaws.com",
@@ -816,7 +816,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/simplecast.com\/",
         "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/",
-        "notes": ""
+        "notes": "DAI: https:\/\/blog.simplecast.com\/dynamic-ad-insertion-101\/"
     },
     {
         "pattern": "simplecastaudio.com",
@@ -829,7 +829,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/simplecast.com\/",
         "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/",
-        "notes": ""
+        "notes": "DAI: https:\/\/blog.simplecast.com\/dynamic-ad-insertion-101\/"
     },
     {
         "pattern": "feeds.soundcloud.com",
@@ -852,10 +852,10 @@
         "iab": "0",
         "abilities_stats": "0",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/sounder.fm\/",
         "hostprivacyurl": "https:\/\/sounder.fm\/privacy-policy\/",
-        "notes": ""
+        "notes": "DAI via Triton; https:\/\/rainnews.com\/triton-digital-enters-deal-with-sounder-bringing-dynamic-ad-insertion-to-sounders-podcast-platform\/"
     },
     {
         "pattern": "spreaker.com",
@@ -865,10 +865,10 @@
         "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.spreaker.com\/",
         "hostprivacyurl": "https:\/\/www.spreaker.com\/privacy",
-        "notes": ""
+        "notes": "DAI: https:\/\/internetfolks.com\/best-podcast-hosting-for-monetization\/"
     },
     {
         "pattern": "squarespace.com",
@@ -965,14 +965,14 @@
         "pattern": "cdn.twit.tv",
         "rss-pattern": "",
         "hostname": "TWiT",
-        "retailer": "0",
+        "retailer": "1",
         "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "1",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/twit.tv\/",
         "hostprivacyurl": "https:\/\/twit.tv\/about\/privacy",
-        "notes": ""
+        "notes": "DAI: https:\/\/twit.tv\/posts\/inside-twit\/twit-podcasts-add-dynamically-inserted-ads-through-megaphone - they are also testing Podsights"
     },
     {
         "pattern": "vrtcdn.be",
@@ -993,12 +993,12 @@
         "hostname": "Whooshkaa",
         "retailer": "1",
         "iab": "1",
-        "abilities_stats": "0",
+        "abilities_stats": "1",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.whooshkaa.com\/",
         "hostprivacyurl": "https:\/\/www.whooshkaa.com\/privacy-policy\/",
-        "notes": ""
+        "notes": "Dynamic ad insertion: https:\/\/podnews.net\/press-release\/whooshkaa-dynamic-ads"
     },
     {
         "pattern": "castfire.com",
