@@ -9,7 +9,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.abc.net.au",
-        "hostprivacyurl": "https:\/\/about.abc.net.au\/abc-privacy-policy\/"
+        "hostprivacyurl": "https:\/\/about.abc.net.au\/abc-privacy-policy\/",
+        "notes": ""
     },
     {
         "pattern": "acast.com",
@@ -21,7 +22,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
-        "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy"
+        "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy",
+        "notes": ""
     },
     {
         "pattern": "pippa.io",
@@ -33,7 +35,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
-        "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy"
+        "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy",
+        "notes": ""
     },
     {
         "pattern": "publicradio.org",
@@ -45,7 +48,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.americanpublicmedia.org\/",
-        "hostprivacyurl": "https:\/\/www.americanpublicmedia.org\/privacy\/"
+        "hostprivacyurl": "https:\/\/www.americanpublicmedia.org\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "anchor.fm",
@@ -54,10 +58,11 @@
         "retailer": "1",
         "iab": "0",
         "abilities_stats": "1",
-        "abilities_tracking": "1",
+        "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/anchor.fm",
-        "hostprivacyurl": "https:\/\/anchor.fm\/privacy"
+        "hostprivacyurl": "https:\/\/anchor.fm\/privacy",
+        "notes": "Dynamic ad insertion: https:\/\/medium.com\/anchor\/introducing-anchor-sponsorships-the-podcast-advertising-platform-for-everyone-512870baa32b"
     },
     {
         "pattern": "art19.com",
@@ -69,7 +74,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "http:\/\/www.art19.com\/",
-        "hostprivacyurl": "https:\/\/art19.com\/privacy"
+        "hostprivacyurl": "https:\/\/art19.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "audioboom.com",
@@ -81,7 +87,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/audioboom.com\/",
-        "hostprivacyurl": "https:\/\/audioboom.com\/about\/privacy"
+        "hostprivacyurl": "https:\/\/audioboom.com\/about\/privacy",
+        "notes": ""
     },
     {
         "pattern": "ausha.co",
@@ -93,7 +100,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.ausha.co\/",
-        "hostprivacyurl": "https:\/\/www.ausha.co\/protection-personal-data\/"
+        "hostprivacyurl": "https:\/\/www.ausha.co\/protection-personal-data\/",
+        "notes": ""
     },
     {
         "pattern": "awesound.com",
@@ -105,7 +113,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/awesound.com\/",
-        "hostprivacyurl": "https:\/\/awesound.com\/terms"
+        "hostprivacyurl": "https:\/\/awesound.com\/terms",
+        "notes": ""
     },
     {
         "pattern": "backtracks.fm",
@@ -117,7 +126,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/backtracks.fm\/",
-        "hostprivacyurl": "https:\/\/backtracks.fm\/legal\/privacy"
+        "hostprivacyurl": "https:\/\/backtracks.fm\/legal\/privacy",
+        "notes": ""
     },
     {
         "pattern": "timlradio.co.uk",
@@ -129,7 +139,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.bauermedia.co.uk\/",
-        "hostprivacyurl": "https:\/\/www.bauerlegal.co.uk\/privacy-policy-20180703"
+        "hostprivacyurl": "https:\/\/www.bauerlegal.co.uk\/privacy-policy-20180703",
+        "notes": ""
     },
     {
         "pattern": "bbc.co.uk",
@@ -141,7 +152,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.bbc.co.uk",
-        "hostprivacyurl": "https:\/\/www.bbc.co.uk\/usingthebbc\/privacy\/"
+        "hostprivacyurl": "https:\/\/www.bbc.co.uk\/usingthebbc\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "media.bcast.fm",
@@ -153,7 +165,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/bcast.fm",
-        "hostprivacyurl": "https:\/\/bcast.fm\/privacy"
+        "hostprivacyurl": "https:\/\/bcast.fm\/privacy",
+        "notes": ""
     },
     {
         "pattern": "blogtalkradio.com",
@@ -165,7 +178,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.blogtalkradio.com\/",
-        "hostprivacyurl": "https:\/\/www.blogtalkradio.com\/page\/termsofuse#privacy"
+        "hostprivacyurl": "https:\/\/www.blogtalkradio.com\/page\/termsofuse#privacy",
+        "notes": ""
     },
     {
         "pattern": "content.blubrry.com",
@@ -177,7 +191,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.blubrry.com\/",
-        "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"
+        "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/",
+        "notes": ""
     },
     {
         "pattern": "ins.blubrry.com",
@@ -189,7 +204,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.blubrry.com\/",
-        "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/"
+        "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/",
+        "notes": ""
     },
     {
         "pattern": "buzzsprout.com",
@@ -201,7 +217,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.buzzsprout.com\/",
-        "hostprivacyurl": "https:\/\/www.buzzsprout.com\/privacy"
+        "hostprivacyurl": "https:\/\/www.buzzsprout.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "podcasts.captivate.fm\/media",
@@ -213,7 +230,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.captivate.fm\/",
-        "hostprivacyurl": "https:\/\/www.captivate.fm\/privacy\/"
+        "hostprivacyurl": "https:\/\/www.captivate.fm\/privacy\/",
+        "notes": "AMIE is Captivate's dynamic ad engine: https:\/\/www.captivate.fm\/product-releases\/introducing-amie\/"
     },
     {
         "pattern": "s3.castbox.fm",
@@ -225,7 +243,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/castbox.fm\/",
-        "hostprivacyurl": "https:\/\/castbox.fm\/policy.html"
+        "hostprivacyurl": "https:\/\/castbox.fm\/policy.html",
+        "notes": ""
     },
     {
         "pattern": "episodes.castos.com",
@@ -237,7 +256,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/castos.com",
-        "hostprivacyurl": "https:\/\/castos.com\/privacy\/"
+        "hostprivacyurl": "https:\/\/castos.com\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "cbsradionewsfeed.com",
@@ -249,7 +269,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.cbsnews.com\/",
-        "hostprivacyurl": "https:\/\/www.cbsinteractive.com\/legal\/cbsi\/privacy-policy\/highlights"
+        "hostprivacyurl": "https:\/\/www.cbsinteractive.com\/legal\/cbsi\/privacy-policy\/highlights",
+        "notes": ""
     },
     {
         "pattern": "audio.hosting.thisisdax.com",
@@ -261,7 +282,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/thisisdax.com\/",
-        "hostprivacyurl": "https:\/\/global.com\/privacy-policy\/"
+        "hostprivacyurl": "https:\/\/global.com\/privacy-policy\/",
+        "notes": ""
     },
     {
         "pattern": "entale.co",
@@ -273,7 +295,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.entale.co\/",
-        "hostprivacyurl": "https:\/\/www.entale.co\/privacy"
+        "hostprivacyurl": "https:\/\/www.entale.co\/privacy",
+        "notes": ""
     },
     {
         "pattern": "c.espnradio.com",
@@ -285,7 +308,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.espn.com",
-        "hostprivacyurl": "https:\/\/privacy.thewaltdisneycompany.com\/en\/"
+        "hostprivacyurl": "https:\/\/privacy.thewaltdisneycompany.com\/en\/",
+        "notes": ""
     },
     {
         "pattern": "api.europe1.fr",
@@ -297,7 +321,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.europe1.fr\/",
-        "hostprivacyurl": "https:\/\/www.europe1.fr\/cgu"
+        "hostprivacyurl": "https:\/\/www.europe1.fr\/cgu",
+        "notes": ""
     },
     {
         "pattern": "fireside.fm",
@@ -309,7 +334,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/fireside.fm\/",
-        "hostprivacyurl": "https:\/\/fireside.fm\/privacy"
+        "hostprivacyurl": "https:\/\/fireside.fm\/privacy",
+        "notes": ""
     },
     {
         "pattern": "freecaster.net",
@@ -321,7 +347,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/freecaster.com\/",
-        "hostprivacyurl": "http:\/\/freecaster.com\/privacy\/"
+        "hostprivacyurl": "http:\/\/freecaster.com\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": ".hipcast.com",
@@ -333,7 +360,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.hipcast.com\/",
-        "hostprivacyurl": "https:\/\/www.hipcast.com\/signup\/privacy.htm"
+        "hostprivacyurl": "https:\/\/www.hipcast.com\/signup\/privacy.htm",
+        "notes": ""
     },
     {
         "pattern": "www.ivoox.com",
@@ -345,7 +373,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.ivoox.com\/",
-        "hostprivacyurl": "https:\/\/www.ivoox.com\/informacion-legal_il.html"
+        "hostprivacyurl": "https:\/\/www.ivoox.com\/informacion-legal_il.html",
+        "notes": ""
     },
     {
         "pattern": "media.adknit.com",
@@ -357,7 +386,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/knit.audio",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "media.kuku.ee",
@@ -369,7 +399,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/kuku.postimees.ee\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "leanstream.co\/",
@@ -381,7 +412,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.leanstream.net\/",
-        "hostprivacyurl": "https:\/\/www.leanstream.net\/privacy\/index.html"
+        "hostprivacyurl": "https:\/\/www.leanstream.net\/privacy\/index.html",
+        "notes": ""
     },
     {
         "pattern": "traffic.libsyn.com",
@@ -393,7 +425,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.libsyn.com\/",
-        "hostprivacyurl": "https:\/\/libsyn.com\/tos-policies\/legal\/"
+        "hostprivacyurl": "https:\/\/libsyn.com\/tos-policies\/legal\/",
+        "notes": "Dynamic ad insertion described as 'Ad stitching to..."
     },
     {
         "pattern": "traffic.libsyn.com",
@@ -405,7 +438,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/libsynpro.com\/",
-        "hostprivacyurl": "https:\/\/libsynpro.com\/terms-of-service\/"
+        "hostprivacyurl": "https:\/\/libsynpro.com\/terms-of-service\/",
+        "notes": "Dynamic ad insertion described as 'Ad stitching tools' here: https:\/\/libsyn.com\/monetization\/"
     },
     {
         "pattern": "megafono.host",
@@ -417,7 +451,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.megafono.host\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "megaphone.fm",
@@ -429,7 +464,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.megaphone.fm",
-        "hostprivacyurl": "https:\/\/www.megaphone.fm\/terms\/privacy"
+        "hostprivacyurl": "https:\/\/www.megaphone.fm\/terms\/privacy",
+        "notes": ""
     },
     {
         "pattern": "messy.fm",
@@ -441,7 +477,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.messy.fm",
-        "hostprivacyurl": "https:\/\/www.messy.fm\/privacy"
+        "hostprivacyurl": "https:\/\/www.messy.fm\/privacy",
+        "notes": ""
     },
     {
         "pattern": "noxsolutions.com",
@@ -453,7 +490,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/noxsolutions.com\/podcasting",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "pod.npr.org",
@@ -465,7 +503,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.npr.org\/",
-        "hostprivacyurl": "https:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy"
+        "hostprivacyurl": "https:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy",
+        "notes": ""
     },
     {
         "pattern": "nrjaudio.fm",
@@ -477,7 +516,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.nrjgroup.fr\/",
-        "hostprivacyurl": "https:\/\/www.nrjgroup.fr\/politique-de-confidentialite\/"
+        "hostprivacyurl": "https:\/\/www.nrjgroup.fr\/politique-de-confidentialite\/",
+        "notes": ""
     },
     {
         "pattern": "omnystudio.com",
@@ -489,7 +529,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/omnystudio.com\/learn",
-        "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy"
+        "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy",
+        "notes": ""
     },
     {
         "pattern": "omny.fm",
@@ -501,7 +542,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/omnystudio.com\/learn",
-        "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy"
+        "hostprivacyurl": "https:\/\/omnystudio.com\/policies\/privacy",
+        "notes": ""
     },
     {
         "pattern": "pinecast.com\/listen",
@@ -513,7 +555,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.pinecast.com\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": ".podbean.com",
@@ -525,7 +568,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.podbean.com\/",
-        "hostprivacyurl": "https:\/\/www.podbean.com\/privacy"
+        "hostprivacyurl": "https:\/\/www.podbean.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "podcastwebsites.com",
@@ -537,7 +581,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podcastwebsites.com\/",
-        "hostprivacyurl": "https:\/\/www.iubenda.com\/privacy-policy\/22992030"
+        "hostprivacyurl": "https:\/\/www.iubenda.com\/privacy-policy\/22992030",
+        "notes": ""
     },
     {
         "pattern": "downloads.pod.co",
@@ -549,7 +594,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.podcast.co\/",
-        "hostprivacyurl": "https:\/\/www.podcast.co\/privacy"
+        "hostprivacyurl": "https:\/\/www.podcast.co\/privacy",
+        "notes": ""
     },
     {
         "pattern": "cdn.podcasts.com",
@@ -561,7 +607,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.podcasts.com",
-        "hostprivacyurl": "https:\/\/www.podcasts.com\/pages\/legal"
+        "hostprivacyurl": "https:\/\/www.podcasts.com\/pages\/legal",
+        "notes": ""
     },
     {
         "pattern": "podcaststudios.co.za",
@@ -573,7 +620,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podcaststudios.co.za",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "podiant.co",
@@ -585,7 +633,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podiant.co\/",
-        "hostprivacyurl": "https:\/\/podiant.co\/privacy\/"
+        "hostprivacyurl": "https:\/\/podiant.co\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "cdn.podigee.com",
@@ -597,7 +646,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.podigee.com\/",
-        "hostprivacyurl": "https:\/\/www.podigee.com\/en\/about\/privacy\/"
+        "hostprivacyurl": "https:\/\/www.podigee.com\/en\/about\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "podmiodotcom.s3.amazonaws.com",
@@ -609,7 +659,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podmio.com\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "podnews.net",
@@ -621,7 +672,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podnews.net\/",
-        "hostprivacyurl": "https:\/\/podnews.net\/about"
+        "hostprivacyurl": "https:\/\/podnews.net\/about",
+        "notes": ""
     },
     {
         "pattern": ".podomatic.com\/enclosure",
@@ -633,7 +685,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.podomatic.com\/",
-        "hostprivacyurl": "https:\/\/www.podomatic.com\/about\/privacy"
+        "hostprivacyurl": "https:\/\/www.podomatic.com\/about\/privacy",
+        "notes": ""
     },
     {
         "pattern": "podpoint.com\/download",
@@ -645,7 +698,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/podpoint.com\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "media.pod.space",
@@ -657,7 +711,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/pod.space\/",
-        "hostprivacyurl": "https:\/\/pod.space\/privacy"
+        "hostprivacyurl": "https:\/\/pod.space\/privacy",
+        "notes": ""
     },
     {
         "pattern": "dovetail.prxu.org",
@@ -669,7 +724,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.prx.org\/",
-        "hostprivacyurl": "https:\/\/www.prx.org\/privacy-policy"
+        "hostprivacyurl": "https:\/\/www.prx.org\/privacy-policy",
+        "notes": ""
     },
     {
         "pattern": "rf.proxycast.org",
@@ -681,7 +737,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.radiofrance.fr\/",
-        "hostprivacyurl": "https:\/\/www.radiofrance.fr\/protection-des-donnees"
+        "hostprivacyurl": "https:\/\/www.radiofrance.fr\/protection-des-donnees",
+        "notes": ""
     },
     {
         "pattern": "radionz.co.nz",
@@ -693,7 +750,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.radionz.co.nz\/",
-        "hostprivacyurl": "https:\/\/www.rnz.co.nz\/about\/digitalprivacypolicy"
+        "hostprivacyurl": "https:\/\/www.rnz.co.nz\/about\/digitalprivacypolicy",
+        "notes": ""
     },
     {
         "pattern": "redcircle.com",
@@ -705,7 +763,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/redcircle.com\/",
-        "hostprivacyurl": "https:\/\/redcircle.com\/privacy"
+        "hostprivacyurl": "https:\/\/redcircle.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "rss.com",
@@ -717,7 +776,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/rss.com",
-        "hostprivacyurl": "https:\/\/rss.com\/privacy-policy"
+        "hostprivacyurl": "https:\/\/rss.com\/privacy-policy",
+        "notes": ""
     },
     {
         "pattern": ".rtve.es\/",
@@ -729,7 +789,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "http:\/\/www.rtve.es\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "sharp-stream.com",
@@ -741,7 +802,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.sharp-stream.com\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "simplecast.com",
@@ -753,7 +815,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/simplecast.com\/",
-        "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/"
+        "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "simplecastaudio.com",
@@ -765,7 +828,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/simplecast.com\/",
-        "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/"
+        "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "feeds.soundcloud.com",
@@ -777,7 +841,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/soundcloud.com\/stream",
-        "hostprivacyurl": "https:\/\/soundcloud.com\/pages\/privacy"
+        "hostprivacyurl": "https:\/\/soundcloud.com\/pages\/privacy",
+        "notes": ""
     },
     {
         "pattern": "cdn.sounder.fm",
@@ -789,7 +854,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/sounder.fm\/",
-        "hostprivacyurl": "https:\/\/sounder.fm\/privacy-policy\/"
+        "hostprivacyurl": "https:\/\/sounder.fm\/privacy-policy\/",
+        "notes": ""
     },
     {
         "pattern": "spreaker.com",
@@ -801,7 +867,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.spreaker.com\/",
-        "hostprivacyurl": "https:\/\/www.spreaker.com\/privacy"
+        "hostprivacyurl": "https:\/\/www.spreaker.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "squarespace.com",
@@ -813,7 +880,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.squarespace.com\/",
-        "hostprivacyurl": "https:\/\/www.squarespace.com\/privacy"
+        "hostprivacyurl": "https:\/\/www.squarespace.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "streamguys1.com",
@@ -825,7 +893,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.streamguys.com\/",
-        "hostprivacyurl": "https:\/\/www.streamguys.com\/privacy"
+        "hostprivacyurl": "https:\/\/www.streamguys.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "talkshoe.com",
@@ -837,7 +906,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.talkshoe.com\/",
-        "hostprivacyurl": "https:\/\/www.talkshoe.com\/privacy_policy"
+        "hostprivacyurl": "https:\/\/www.talkshoe.com\/privacy_policy",
+        "notes": ""
     },
     {
         "pattern": "thisamericanlife.org",
@@ -849,7 +919,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.thisamericanlife.org\/",
-        "hostprivacyurl": "https:\/\/www.thisamericanlife.org\/page\/privacy-policy"
+        "hostprivacyurl": "https:\/\/www.thisamericanlife.org\/page\/privacy-policy",
+        "notes": ""
     },
     {
         "pattern": "audio.thisisdistorted.com\/repository",
@@ -861,7 +932,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/thisisdistorted.com\/",
-        "hostprivacyurl": ""
+        "hostprivacyurl": "",
+        "notes": ""
     },
     {
         "pattern": "transistor.fm",
@@ -873,7 +945,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/transistor.fm\/",
-        "hostprivacyurl": "https:\/\/transistor.fm\/privacy"
+        "hostprivacyurl": "https:\/\/transistor.fm\/privacy",
+        "notes": ""
     },
     {
         "pattern": "tritondigital.com",
@@ -885,7 +958,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.tritondigital.com\/",
-        "hostprivacyurl": "https:\/\/www.tritondigital.com\/privacy-policies"
+        "hostprivacyurl": "https:\/\/www.tritondigital.com\/privacy-policies",
+        "notes": ""
     },
     {
         "pattern": "cdn.twit.tv",
@@ -897,7 +971,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/twit.tv\/",
-        "hostprivacyurl": "https:\/\/twit.tv\/about\/privacy"
+        "hostprivacyurl": "https:\/\/twit.tv\/about\/privacy",
+        "notes": ""
     },
     {
         "pattern": "vrtcdn.be",
@@ -909,7 +984,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.vrt.be\/nl\/",
-        "hostprivacyurl": "https:\/\/www.vrt.be\/nl\/info\/privacy\/"
+        "hostprivacyurl": "https:\/\/www.vrt.be\/nl\/info\/privacy\/",
+        "notes": ""
     },
     {
         "pattern": "whooshkaa.com",
@@ -921,7 +997,8 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.whooshkaa.com\/",
-        "hostprivacyurl": "https:\/\/www.whooshkaa.com\/privacy-policy\/"
+        "hostprivacyurl": "https:\/\/www.whooshkaa.com\/privacy-policy\/",
+        "notes": ""
     },
     {
         "pattern": "castfire.com",
@@ -933,7 +1010,8 @@
         "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.wideorbit.com\/",
-        "hostprivacyurl": "https:\/\/www.wideorbit.com\/privacy"
+        "hostprivacyurl": "https:\/\/www.wideorbit.com\/privacy",
+        "notes": ""
     },
     {
         "pattern": "wnyc.org",
@@ -945,6 +1023,7 @@
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.wnyc.org\/",
-        "hostprivacyurl": "https:\/\/www.wnyc.org\/privacy\/"
+        "hostprivacyurl": "https:\/\/www.wnyc.org\/privacy\/",
+        "notes": ""
     }
 ]
