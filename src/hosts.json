@@ -23,7 +23,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
         "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy",
-        "notes": ""
+        "notes": "Attribution: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution - Server Side Ad Insertion: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution"
     },
     {
         "pattern": "pippa.io",
@@ -36,7 +36,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
         "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy",
-        "notes": ""
+        "notes": "Attribution: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution - Server Side Ad Insertion: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution"
     },
     {
         "pattern": "publicradio.org",
@@ -49,7 +49,7 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.americanpublicmedia.org\/",
         "hostprivacyurl": "https:\/\/www.americanpublicmedia.org\/privacy\/",
-        "notes": ""
+        "notes": "No evidence of attribution or DAI on their website"
     },
     {
         "pattern": "anchor.fm",
@@ -75,7 +75,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "http:\/\/www.art19.com\/",
         "hostprivacyurl": "https:\/\/art19.com\/privacy",
-        "notes": "Dynamic ads described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/"
+        "notes": "DAI is called WarpFeed: https:\/\/art19.com\/publishers Attribution: Track campaign effectiveness beyond podcasts with cross-channel attribution https:\/\/art19.com\/advertisers"
     },
     {
         "pattern": "audioboom.com",
@@ -88,7 +88,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/audioboom.com\/",
         "hostprivacyurl": "https:\/\/audioboom.com\/about\/privacy",
-        "notes": "DAI described https:\/\/audioboom.com\/advertisers"
+        "notes": "DAI described https:\/\/audioboom.com\/advertisers - no evidence of attribution"
     },
     {
         "pattern": "ausha.co",
@@ -101,7 +101,7 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.ausha.co\/",
         "hostprivacyurl": "https:\/\/www.ausha.co\/protection-personal-data\/",
-        "notes": ""
+        "notes": "No evidence on their website"
     },
     {
         "pattern": "awesound.com",
@@ -111,10 +111,10 @@
         "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/awesound.com\/",
         "hostprivacyurl": "https:\/\/awesound.com\/terms",
-        "notes": ""
+        "notes": "DAI detailed here: https:\/\/awesound.com\/terms - no evidence of attribution"
     },
     {
         "pattern": "backtracks.fm",
@@ -124,10 +124,10 @@
         "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/backtracks.fm\/",
         "hostprivacyurl": "https:\/\/backtracks.fm\/legal\/privacy",
-        "notes": ""
+        "notes": "No attribution visible. DAI described here: https:\/\/backtracks.fm\/podcast-advertising"
     },
     {
         "pattern": "timlradio.co.uk",
@@ -153,7 +153,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.bbc.co.uk",
         "hostprivacyurl": "https:\/\/www.bbc.co.uk\/usingthebbc\/privacy\/",
-        "notes": "BBC uses Acast technology outside the UK"
+        "notes": "BBC uses Acast technology outside the UK, so settings match Acast."
     },
     {
         "pattern": "media.bcast.fm",
@@ -163,10 +163,10 @@
         "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/bcast.fm",
         "hostprivacyurl": "https:\/\/bcast.fm\/privacy",
-        "notes": ""
+        "notes": "DAI detailed here: https:\/\/bcast.fm\/features - no attribution visible"
     },
     {
         "pattern": "blogtalkradio.com",
@@ -764,7 +764,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/redcircle.com\/",
         "hostprivacyurl": "https:\/\/redcircle.com\/privacy",
-        "notes": ""
+        "notes": "DAI is claim in advert at top of this: https:\/\/podnews.net\/update\/podcorn-launches-plus-boomtown"
     },
     {
         "pattern": "rss.com",
