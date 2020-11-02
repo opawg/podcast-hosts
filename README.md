@@ -3,6 +3,8 @@ A JSON list of podcast hosts, and the patterns they use in audio URLs.
 
 If you have the URL of a podcast's audio file, this JSON file will help you work out who the host is; and abilities that host may have that may impact listener privacy.
 
+This data is [synched to podcast-privacy.com](https://github.com/fancysoups/podcast-privacy/issues/2#issuecomment-720155022), which offers an API.
+
 ## Images
 
 Each podcast host has an image, in optimised .png format. The filename is programmatically calculated from the podcast host's name, in lower case, with non-alphanumeric characters encoded as a "-". Here's our ugly code:
