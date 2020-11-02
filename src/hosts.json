@@ -760,11 +760,11 @@
         "retailer": "1",
         "iab": "0",
         "abilities_stats": "1",
-        "abilities_tracking": "1",
+        "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/redcircle.com\/",
         "hostprivacyurl": "https:\/\/redcircle.com\/privacy",
-        "notes": "DAI is claim in advert at top of this: https:\/\/podnews.net\/update\/podcorn-launches-plus-boomtown"
+        "notes": "DAI is claim in advert at top of this: https:\/\/podnews.net\/update\/podcorn-launches-plus-boomtown - the product does not do attribution, says Mike Kadin directly."
     },
     {
         "pattern": "rss.com",
