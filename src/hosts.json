@@ -75,7 +75,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "http:\/\/www.art19.com\/",
         "hostprivacyurl": "https:\/\/art19.com\/privacy",
-        "notes": "DAI is called WarpFeed: https:\/\/art19.com\/publishers Attribution: Track campaign effectiveness beyond podcasts with cross-channel attribution https:\/\/art19.com\/advertisers"
+        "notes": "DAI is called WarpFeed: https:\/\/art19.com\/publishers Attribution: Track campaign effectiveness beyond podcasts with cross-channel attribution https:\/\/art19.com\/advertisers and is also available via Podsights with no prefix https:\/\/podsights.com\/guides\/overview\/"
     },
     {
         "pattern": "audioboom.com",
@@ -192,7 +192,7 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.blubrry.com\/",
         "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/",
-        "notes": ""
+        "notes": "Blubrry does not do attribution. Source: Blubrry support"
     },
     {
         "pattern": "ins.blubrry.com",
@@ -205,7 +205,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.blubrry.com\/",
         "hostprivacyurl": "https:\/\/create.blubrry.com\/resources\/about-blubrry\/privacy-policy\/",
-        "notes": ""
+        "notes": "Using this URL, Blubrry customers can manage dynamic ad insertion. (It is not programmatic). Blubrry does not do attribution. Source: Blubrry support"
     },
     {
         "pattern": "buzzsprout.com",
@@ -465,7 +465,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.megaphone.fm",
         "hostprivacyurl": "https:\/\/www.megaphone.fm\/terms\/privacy",
-        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/"
+        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/ Tracking is available through Podsights without any prefix https:\/\/podsights.com\/guides\/overview\/"
     },
     {
         "pattern": "messy.fm",
@@ -500,11 +500,11 @@
         "retailer": "0",
         "iab": "1",
         "abilities_stats": "1",
-        "abilities_tracking": "1",
+        "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.npr.org\/",
         "hostprivacyurl": "https:\/\/www.npr.org\/about-npr\/179878450\/privacy-policy",
-        "notes": ""
+        "notes": "Consider This offers dynamic content insertion https:\/\/www.npr.org\/about-npr\/909369777\/npr-member-stations-turn-consider-this-into-first-localized-news-podcast?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net:2020-09-10 NPM\/NPR does offer attribution through Podsights and Chartable but it is assumed they will contain prefixes accordingly."
     },
     {
         "pattern": "nrjaudio.fm",
