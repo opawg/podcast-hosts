@@ -56,7 +56,7 @@
         "rss-pattern": "",
         "hostname": "Anchor",
         "retailer": "1",
-        "iab": "0",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
@@ -212,7 +212,7 @@
         "rss-pattern": "",
         "hostname": "Buzzsprout",
         "retailer": "1",
-        "iab": "0",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
@@ -955,11 +955,11 @@
         "retailer": "1",
         "iab": "1",
         "abilities_stats": "0",
-        "abilities_tracking": "0",
+        "abilities_tracking": "1",
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.tritondigital.com\/",
         "hostprivacyurl": "https:\/\/www.tritondigital.com\/privacy-policies",
-        "notes": ""
+        "notes": "Triton use webhooks into Chartable\/Podsights."
     },
     {
         "pattern": "cdn.twit.tv",
