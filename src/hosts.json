@@ -91,6 +91,19 @@
         "notes": "DAI described https:\/\/audioboom.com\/advertisers - no evidence of attribution"
     },
     {
+        "pattern": "audio.audiomeans.fr",
+        "rss-pattern": "",
+        "hostname": "Audiomeans",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/www.audiomeans.fr\/",
+        "hostprivacyurl": "https:\/\/audiomeans.fr\/privacy",
+        "notes": "DAI - \"define advertising locations at the beginning, middle or end of your content\" - https:\/\/www.audiomeans.fr\/\r\n"
+    },
+    {
         "pattern": "ausha.co",
         "rss-pattern": "",
         "hostname": "Ausha",
