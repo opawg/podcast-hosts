@@ -260,6 +260,19 @@
         "notes": ""
     },
     {
+        "pattern": "media.casted.us",
+        "rss-pattern": "feeds.casted.us",
+        "hostname": "Casted",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.casted.us\/",
+        "hostprivacyurl": "",
+        "notes": "https:\/\/www.casted.us\/solution\/platform discusses attribution. This company appears to have no privacy policy."
+    },
+    {
         "pattern": "episodes.castos.com",
         "rss-pattern": "",
         "hostname": "Castos",
@@ -790,6 +803,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/rss.com",
         "hostprivacyurl": "https:\/\/rss.com\/privacy-policy",
+        "notes": ""
+    },
+    {
+        "pattern": "podcasts.rtp.pt",
+        "rss-pattern": "",
+        "hostname": "RTP",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.rtp.pt\/",
+        "hostprivacyurl": "https:\/\/media.rtp.pt\/rgpd\/politica-de-privacidade\/",
         "notes": ""
     },
     {
