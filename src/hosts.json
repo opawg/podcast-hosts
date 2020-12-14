@@ -234,6 +234,19 @@
         "notes": ""
     },
     {
+        "pattern": "media.caproni.fm",
+        "rss-pattern": "feeds.caproni.fm",
+        "hostname": "Caproni",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/caproni.fm\/en",
+        "hostprivacyurl": "https:\/\/caproni.fm\/en\/privacy-policy",
+        "notes": ""
+    },
+    {
         "pattern": "podcasts.captivate.fm\/media",
         "rss-pattern": "",
         "hostname": "Captivate",
