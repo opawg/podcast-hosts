@@ -949,6 +949,19 @@
         "notes": ""
     },
     {
+        "pattern": "api.substack.com",
+        "rss-pattern": "api.substack.com",
+        "hostname": "Substack",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/library.substack.com\/p\/how-to-use-substack-for-podcasts",
+        "hostprivacyurl": "https:\/\/substack.com\/privacy",
+        "notes": "No stats seemingly described in the Substack website"
+    },
+    {
         "pattern": "talkshoe.com",
         "rss-pattern": "",
         "hostname": "Talkshoe",
