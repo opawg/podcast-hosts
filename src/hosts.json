@@ -2,7 +2,7 @@
     {
         "pattern": "abc.net.au",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "abc.net.au",
         "hostname": "ABC Australia",
         "retailer": "0",
         "iab": "0",
@@ -44,7 +44,7 @@
     {
         "pattern": "publicradio.org",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": ".publicradio.org",
         "hostname": "American Public Media",
         "retailer": "0",
         "iab": "0",
@@ -100,7 +100,7 @@
     {
         "pattern": "audio.audiomeans.fr",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.audiomeans.fr",
         "hostname": "Audiomeans",
         "retailer": "1",
         "iab": "0",
@@ -114,7 +114,7 @@
     {
         "pattern": "ausha.co",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.ausha.co",
         "hostname": "Ausha",
         "retailer": "1",
         "iab": "0",
@@ -128,7 +128,7 @@
     {
         "pattern": "awesound.com",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "awesound.com",
         "hostname": "Awesound",
         "retailer": "1",
         "iab": "0",
@@ -142,7 +142,7 @@
     {
         "pattern": "backtracks.fm",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "backtracks.fm",
         "hostname": "Backtracks",
         "retailer": "1",
         "iab": "0",
@@ -170,7 +170,7 @@
     {
         "pattern": "bbc.co.uk",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "podcasts.files.bbci.co.uk",
         "hostname": "BBC",
         "retailer": "0",
         "iab": "0",
@@ -184,7 +184,7 @@
     {
         "pattern": "media.bcast.fm",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.bcast.fm",
         "hostname": "bCast",
         "retailer": "1",
         "iab": "0",
@@ -254,7 +254,7 @@
     {
         "pattern": "media.caproni.fm",
         "rss-pattern": "feeds.caproni.fm",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.caproni.fm",
         "hostname": "Caproni",
         "retailer": "1",
         "iab": "0",
@@ -296,7 +296,7 @@
     {
         "pattern": "media.casted.us",
         "rss-pattern": "feeds.casted.us",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.casted.us",
         "hostname": "Casted",
         "retailer": "0",
         "iab": "0",
@@ -352,7 +352,7 @@
     {
         "pattern": "entale.co",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.entale.co",
         "hostname": "Entale",
         "retailer": "1",
         "iab": "0",
@@ -366,7 +366,7 @@
     {
         "pattern": "c.espnradio.com",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "espn.com",
         "hostname": "ESPN Radio",
         "retailer": "0",
         "iab": "0",
@@ -436,7 +436,7 @@
     {
         "pattern": ".hipcast.com",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": ".hipcast.com",
         "hostname": "Hipcast",
         "retailer": "1",
         "iab": "0",
@@ -534,7 +534,7 @@
     {
         "pattern": "megafono.host",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feed.megafono.host",
         "hostname": "Megafono",
         "retailer": "1",
         "iab": "0",
@@ -562,7 +562,7 @@
     {
         "pattern": "messy.fm",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "messy.fm",
         "hostname": "Messy",
         "retailer": "1",
         "iab": "0",
@@ -590,7 +590,7 @@
     {
         "pattern": "pod.npr.org",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.npr.org",
         "hostname": "NPR",
         "retailer": "0",
         "iab": "1",
@@ -702,7 +702,7 @@
     {
         "pattern": "cdn.podcasts.com",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": ".podcasts.com",
         "hostname": "podcasts.com",
         "retailer": "1",
         "iab": "0",
@@ -758,7 +758,7 @@
     {
         "pattern": "podmiodotcom.s3.amazonaws.com",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "podcastplayer.io",
         "hostname": "Podmio",
         "retailer": "1",
         "iab": "0",
@@ -1038,7 +1038,7 @@
     {
         "pattern": "squarespace.com",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": ".squarespace.com",
         "hostname": "Squarespace",
         "retailer": "1",
         "iab": "0",
@@ -1206,7 +1206,7 @@
     {
         "pattern": "wnyc.org",
         "rss-pattern": "",
-        "rss-url-pattern": "",
+        "rss-url-pattern": "feeds.wnyc.org",
         "hostname": "WNYC",
         "retailer": "0",
         "iab": "0",
