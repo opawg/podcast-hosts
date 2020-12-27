@@ -45,8 +45,14 @@ Each entry _can_ contain the following properties:
 
 Podnews uses the below to extract a host's name, and privacy details, in podcast pages ([example](https://podnews.net/podcast/1287081706)).
 
-```$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` DESC LIMIT 1");   
-$stmt->execute(array(':url'=>$podcast['audiourl'],':rssurl'=>$podcast['feedUrl']));
-$host = $stmt->fetch(PDO::FETCH_ASSOC);```
+```
+$audioUrlArray=parse_url($podcast['audiourl']);
+$audioUrlNoQueries=$audioUrlArray['host'].$audioUrlArray['path'];
+$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` DESC LIMIT 1");   
+$stmt->execute(array(':url'=>$audioUrlNoQueries,':rssurl'=>$podcast['feedUrl']));
+$host = $stmt->fetch(PDO::FETCH_ASSOC);
+```
+
+(You're recommended to remove the query string, as above).
 
 Improvements are welcome. This list won't adequately spot original hosts via Feedburner or similar, but otherwise will catch most podcasts.
