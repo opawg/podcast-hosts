@@ -46,10 +46,8 @@ Each entry _can_ contain the following properties:
 Podnews uses the below to extract a host's name, and privacy details, in podcast pages ([example](https://podnews.net/podcast/1287081706)).
 
 ```
-$audioUrlArray=parse_url($podcast['audiourl']);
-$audioUrlNoQueries=$audioUrlArray['host'].$audioUrlArray['path'];
-$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` DESC LIMIT 1");   
-$stmt->execute(array(':url'=>$audioUrlNoQueries,':rssurl'=>$podcast['feedUrl']));
+$stmt = $db->prepare("SELECT * FROM `podcasts-hosts` WHERE (INSTR(:url,pattern) AND INSTR(:rssurl,`rss-pattern`)) OR INSTR(:url,pattern) ORDER BY `rss-pattern` ASC LIMIT 1");
+$stmt->execute(array(':url'=>parse_url($podcast['audiourl'],PHP_URL_HOST).parse_url($podcast['audiourl'],PHP_URL_PATH),':rssurl'=>$podcast['feedUrl']));
 $host = $stmt->fetch(PDO::FETCH_ASSOC);
 ```
 
