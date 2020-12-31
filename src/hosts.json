@@ -2,6 +2,7 @@
     {
         "pattern": "abc.net.au",
         "rss-pattern": "",
+        "rss-url-pattern": "abc.net.au",
         "hostname": "ABC Australia",
         "retailer": "0",
         "iab": "0",
@@ -15,6 +16,7 @@
     {
         "pattern": "acast.com",
         "rss-pattern": "",
+        "rss-url-pattern": "rss.acast.com",
         "hostname": "Acast",
         "retailer": "0",
         "iab": "1",
@@ -28,6 +30,7 @@
     {
         "pattern": "pippa.io",
         "rss-pattern": "",
+        "rss-url-pattern": "feed.pippa.io",
         "hostname": "Acast Open",
         "retailer": "1",
         "iab": "1",
@@ -41,6 +44,7 @@
     {
         "pattern": "publicradio.org",
         "rss-pattern": "",
+        "rss-url-pattern": ".publicradio.org",
         "hostname": "American Public Media",
         "retailer": "0",
         "iab": "0",
@@ -54,6 +58,7 @@
     {
         "pattern": "anchor.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "anchor.fm",
         "hostname": "Anchor",
         "retailer": "1",
         "iab": "1",
@@ -67,6 +72,7 @@
     {
         "pattern": "art19.com",
         "rss-pattern": "",
+        "rss-url-pattern": "rss.art19.com",
         "hostname": "ART19",
         "retailer": "1",
         "iab": "1",
@@ -80,6 +86,7 @@
     {
         "pattern": "audioboom.com",
         "rss-pattern": "",
+        "rss-url-pattern": "audioboom.com",
         "hostname": "Audioboom",
         "retailer": "1",
         "iab": "0",
@@ -93,6 +100,7 @@
     {
         "pattern": "audio.audiomeans.fr",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.audiomeans.fr",
         "hostname": "Audiomeans",
         "retailer": "1",
         "iab": "0",
@@ -106,6 +114,7 @@
     {
         "pattern": "ausha.co",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.ausha.co",
         "hostname": "Ausha",
         "retailer": "1",
         "iab": "0",
@@ -119,6 +128,7 @@
     {
         "pattern": "awesound.com",
         "rss-pattern": "",
+        "rss-url-pattern": "awesound.com",
         "hostname": "Awesound",
         "retailer": "1",
         "iab": "0",
@@ -132,6 +142,7 @@
     {
         "pattern": "backtracks.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "backtracks.fm",
         "hostname": "Backtracks",
         "retailer": "1",
         "iab": "0",
@@ -145,6 +156,7 @@
     {
         "pattern": "timlradio.co.uk",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Bauer Media Group",
         "retailer": "0",
         "iab": "0",
@@ -158,6 +170,7 @@
     {
         "pattern": "bbc.co.uk",
         "rss-pattern": "",
+        "rss-url-pattern": "podcasts.files.bbci.co.uk",
         "hostname": "BBC",
         "retailer": "0",
         "iab": "0",
@@ -171,6 +184,7 @@
     {
         "pattern": "media.bcast.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.bcast.fm",
         "hostname": "bCast",
         "retailer": "1",
         "iab": "0",
@@ -184,6 +198,7 @@
     {
         "pattern": "blogtalkradio.com",
         "rss-pattern": "",
+        "rss-url-pattern": "blogtalkradio.com",
         "hostname": "Blog Talk Radio",
         "retailer": "1",
         "iab": "0",
@@ -197,6 +212,7 @@
     {
         "pattern": "content.blubrry.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".blubrry.",
         "hostname": "Blubrry",
         "retailer": "1",
         "iab": "1",
@@ -210,6 +226,7 @@
     {
         "pattern": "ins.blubrry.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".blubrry.",
         "hostname": "Blubrry",
         "retailer": "1",
         "iab": "1",
@@ -223,6 +240,7 @@
     {
         "pattern": "buzzsprout.com",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.buzzsprout.com",
         "hostname": "Buzzsprout",
         "retailer": "1",
         "iab": "1",
@@ -236,6 +254,7 @@
     {
         "pattern": "media.caproni.fm",
         "rss-pattern": "feeds.caproni.fm",
+        "rss-url-pattern": "feeds.caproni.fm",
         "hostname": "Caproni",
         "retailer": "1",
         "iab": "0",
@@ -249,6 +268,7 @@
     {
         "pattern": "podcasts.captivate.fm\/media",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.captivate.fm",
         "hostname": "Captivate",
         "retailer": "1",
         "iab": "1",
@@ -262,6 +282,7 @@
     {
         "pattern": "s3.castbox.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "rss.castbox.fm",
         "hostname": "Castbox",
         "retailer": "1",
         "iab": "0",
@@ -275,6 +296,7 @@
     {
         "pattern": "media.casted.us",
         "rss-pattern": "feeds.casted.us",
+        "rss-url-pattern": "feeds.casted.us",
         "hostname": "Casted",
         "retailer": "0",
         "iab": "0",
@@ -288,6 +310,7 @@
     {
         "pattern": "episodes.castos.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".castos.com",
         "hostname": "Castos",
         "retailer": "1",
         "iab": "0",
@@ -301,6 +324,7 @@
     {
         "pattern": "cbsradionewsfeed.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "CBS Radio News",
         "retailer": "0",
         "iab": "0",
@@ -314,6 +338,7 @@
     {
         "pattern": "audio.hosting.thisisdax.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "DAX",
         "retailer": "0",
         "iab": "0",
@@ -327,6 +352,7 @@
     {
         "pattern": "entale.co",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.entale.co",
         "hostname": "Entale",
         "retailer": "1",
         "iab": "0",
@@ -340,6 +366,7 @@
     {
         "pattern": "c.espnradio.com",
         "rss-pattern": "",
+        "rss-url-pattern": "espn.com",
         "hostname": "ESPN Radio",
         "retailer": "0",
         "iab": "0",
@@ -353,6 +380,7 @@
     {
         "pattern": "api.europe1.fr",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Europe 1",
         "retailer": "0",
         "iab": "0",
@@ -366,6 +394,7 @@
     {
         "pattern": "fireside.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.fireside.fm",
         "hostname": "Fireside",
         "retailer": "1",
         "iab": "0",
@@ -377,8 +406,23 @@
         "notes": ""
     },
     {
+        "pattern": "feedproxy.google.com",
+        "rss-pattern": "",
+        "rss-url-pattern": "feeds.feedburner.com",
+        "hostname": "FeedBurner",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/feedburner.com\/",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
         "pattern": "freecaster.net",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Freecaster",
         "retailer": "0",
         "iab": "0",
@@ -392,6 +436,7 @@
     {
         "pattern": ".hipcast.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".hipcast.com",
         "hostname": "Hipcast",
         "retailer": "1",
         "iab": "0",
@@ -405,6 +450,7 @@
     {
         "pattern": "www.ivoox.com",
         "rss-pattern": "",
+        "rss-url-pattern": "ivoox.com",
         "hostname": "iVoox",
         "retailer": "1",
         "iab": "0",
@@ -418,6 +464,7 @@
     {
         "pattern": "media.adknit.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "knit",
         "retailer": "1",
         "iab": "0",
@@ -431,6 +478,7 @@
     {
         "pattern": "media.kuku.ee",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Kuku",
         "retailer": "0",
         "iab": "0",
@@ -444,6 +492,7 @@
     {
         "pattern": "leanstream.co\/",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "leanStream",
         "retailer": "1",
         "iab": "0",
@@ -457,6 +506,7 @@
     {
         "pattern": "traffic.libsyn.com",
         "rss-pattern": "",
+        "rss-url-pattern": "libsyn.com",
         "hostname": "Libsyn",
         "retailer": "1",
         "iab": "1",
@@ -470,6 +520,7 @@
     {
         "pattern": "traffic.libsyn.com",
         "rss-pattern": "libsynpro.com",
+        "rss-url-pattern": "libsynpro.com",
         "hostname": "LibsynPro",
         "retailer": "0",
         "iab": "1",
@@ -483,6 +534,7 @@
     {
         "pattern": "megafono.host",
         "rss-pattern": "",
+        "rss-url-pattern": "feed.megafono.host",
         "hostname": "Megafono",
         "retailer": "1",
         "iab": "0",
@@ -496,6 +548,7 @@
     {
         "pattern": "megaphone.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.megaphone.fm",
         "hostname": "Megaphone",
         "retailer": "1",
         "iab": "1",
@@ -509,6 +562,7 @@
     {
         "pattern": "messy.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "messy.fm",
         "hostname": "Messy",
         "retailer": "1",
         "iab": "0",
@@ -522,6 +576,7 @@
     {
         "pattern": "noxsolutions.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Nox Solutions",
         "retailer": "0",
         "iab": "0",
@@ -535,6 +590,7 @@
     {
         "pattern": "pod.npr.org",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.npr.org",
         "hostname": "NPR",
         "retailer": "0",
         "iab": "1",
@@ -548,6 +604,7 @@
     {
         "pattern": "nrjaudio.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "NRJ-Group",
         "retailer": "0",
         "iab": "0",
@@ -561,6 +618,7 @@
     {
         "pattern": "omnystudio.com",
         "rss-pattern": "",
+        "rss-url-pattern": "omnycontent.com",
         "hostname": "Omny Studio",
         "retailer": "1",
         "iab": "1",
@@ -574,6 +632,7 @@
     {
         "pattern": "omny.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "omnycontent.com",
         "hostname": "Omny Studio",
         "retailer": "1",
         "iab": "1",
@@ -587,6 +646,7 @@
     {
         "pattern": "pinecast.com\/listen",
         "rss-pattern": "",
+        "rss-url-pattern": "pinecast.com",
         "hostname": "Pinecast",
         "retailer": "1",
         "iab": "0",
@@ -600,6 +660,7 @@
     {
         "pattern": ".podbean.com",
         "rss-pattern": "",
+        "rss-url-pattern": "podbean.com",
         "hostname": "Podbean",
         "retailer": "1",
         "iab": "1",
@@ -613,6 +674,7 @@
     {
         "pattern": "podcastwebsites.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Podcast Websites",
         "retailer": "1",
         "iab": "0",
@@ -626,6 +688,7 @@
     {
         "pattern": "downloads.pod.co",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Podcast.co",
         "retailer": "1",
         "iab": "0",
@@ -639,6 +702,7 @@
     {
         "pattern": "cdn.podcasts.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".podcasts.com",
         "hostname": "podcasts.com",
         "retailer": "1",
         "iab": "0",
@@ -652,6 +716,7 @@
     {
         "pattern": "podcaststudios.co.za",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "podcaststudios.co.za",
         "retailer": "0",
         "iab": "0",
@@ -665,6 +730,7 @@
     {
         "pattern": "podiant.co",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.podiant.co",
         "hostname": "Podiant",
         "retailer": "1",
         "iab": "0",
@@ -678,6 +744,7 @@
     {
         "pattern": "cdn.podigee.com",
         "rss-pattern": "",
+        "rss-url-pattern": "podigee.io",
         "hostname": "Podigee",
         "retailer": "1",
         "iab": "0",
@@ -691,6 +758,7 @@
     {
         "pattern": "podmiodotcom.s3.amazonaws.com",
         "rss-pattern": "",
+        "rss-url-pattern": "podcastplayer.io",
         "hostname": "Podmio",
         "retailer": "1",
         "iab": "0",
@@ -704,6 +772,7 @@
     {
         "pattern": "podnews.net",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Podnews",
         "retailer": "0",
         "iab": "0",
@@ -717,6 +786,7 @@
     {
         "pattern": ".podomatic.com\/enclosure",
         "rss-pattern": "",
+        "rss-url-pattern": "podomatic.com",
         "hostname": "Podomatic",
         "retailer": "1",
         "iab": "0",
@@ -730,6 +800,7 @@
     {
         "pattern": "podpoint.com\/download",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "PodPoint",
         "retailer": "1",
         "iab": "0",
@@ -743,6 +814,7 @@
     {
         "pattern": "media.pod.space",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Podspace",
         "retailer": "1",
         "iab": "0",
@@ -754,8 +826,23 @@
         "notes": ""
     },
     {
+        "pattern": "podtrac.com",
+        "rss-pattern": "",
+        "rss-url-pattern": ".podtrac.com",
+        "hostname": "Podtrac",
+        "retailer": "0",
+        "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/podtrac.com\/",
+        "hostprivacyurl": "https:\/\/analytics.podtrac.com\/site-privacy-policy",
+        "notes": ""
+    },
+    {
         "pattern": "dovetail.prxu.org",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "PRX",
         "retailer": "0",
         "iab": "0",
@@ -769,6 +856,7 @@
     {
         "pattern": "rf.proxycast.org",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Radio France",
         "retailer": "0",
         "iab": "0",
@@ -782,6 +870,7 @@
     {
         "pattern": "radionz.co.nz",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Radio New Zealand",
         "retailer": "0",
         "iab": "0",
@@ -795,6 +884,7 @@
     {
         "pattern": "redcircle.com",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.redcircle.com",
         "hostname": "RedCircle",
         "retailer": "1",
         "iab": "0",
@@ -808,6 +898,7 @@
     {
         "pattern": "rss.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".rss.com",
         "hostname": "RSS Podcasting",
         "retailer": "1",
         "iab": "0",
@@ -821,6 +912,7 @@
     {
         "pattern": "podcasts.rtp.pt",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "RTP",
         "retailer": "0",
         "iab": "0",
@@ -834,6 +926,7 @@
     {
         "pattern": ".rtve.es\/",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "RTVE",
         "retailer": "0",
         "iab": "0",
@@ -847,6 +940,7 @@
     {
         "pattern": "sharp-stream.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Sharpstream",
         "retailer": "1",
         "iab": "0",
@@ -858,8 +952,23 @@
         "notes": ""
     },
     {
+        "pattern": "shoutengine.com",
+        "rss-pattern": "",
+        "rss-url-pattern": "shoutengine.com",
+        "hostname": "ShoutEngine",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/shoutengine.com\/",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
         "pattern": "simplecast.com",
         "rss-pattern": "",
+        "rss-url-pattern": "simplecast.com",
         "hostname": "Simplecast",
         "retailer": "1",
         "iab": "1",
@@ -873,6 +982,7 @@
     {
         "pattern": "simplecastaudio.com",
         "rss-pattern": "",
+        "rss-url-pattern": "simplecast.com",
         "hostname": "Simplecast",
         "retailer": "1",
         "iab": "1",
@@ -886,6 +996,7 @@
     {
         "pattern": "feeds.soundcloud.com",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.soundcloud.com",
         "hostname": "Soundcloud",
         "retailer": "1",
         "iab": "0",
@@ -899,6 +1010,7 @@
     {
         "pattern": "cdn.sounder.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.sounder.fm",
         "hostname": "Sounder",
         "retailer": "1",
         "iab": "0",
@@ -912,6 +1024,7 @@
     {
         "pattern": "spreaker.com",
         "rss-pattern": "",
+        "rss-url-pattern": "spreaker.com",
         "hostname": "Spreaker",
         "retailer": "1",
         "iab": "1",
@@ -925,6 +1038,7 @@
     {
         "pattern": "squarespace.com",
         "rss-pattern": "",
+        "rss-url-pattern": ".squarespace.com",
         "hostname": "Squarespace",
         "retailer": "1",
         "iab": "0",
@@ -938,6 +1052,7 @@
     {
         "pattern": "streamguys1.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "StreamGuys",
         "retailer": "1",
         "iab": "0",
@@ -951,6 +1066,7 @@
     {
         "pattern": "api.substack.com",
         "rss-pattern": "api.substack.com",
+        "rss-url-pattern": "",
         "hostname": "Substack",
         "retailer": "1",
         "iab": "0",
@@ -964,6 +1080,7 @@
     {
         "pattern": "talkshoe.com",
         "rss-pattern": "",
+        "rss-url-pattern": "talkshoe.com",
         "hostname": "Talkshoe",
         "retailer": "1",
         "iab": "0",
@@ -977,6 +1094,7 @@
     {
         "pattern": "thisamericanlife.org",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "This American Life",
         "retailer": "0",
         "iab": "0",
@@ -990,6 +1108,7 @@
     {
         "pattern": "audio.thisisdistorted.com\/repository",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "This Is Distorted",
         "retailer": "1",
         "iab": "0",
@@ -1003,6 +1122,7 @@
     {
         "pattern": "transistor.fm",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.transistor.fm",
         "hostname": "Transistor",
         "retailer": "1",
         "iab": "0",
@@ -1016,6 +1136,7 @@
     {
         "pattern": "tritondigital.com",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "Triton Digital",
         "retailer": "1",
         "iab": "1",
@@ -1029,6 +1150,7 @@
     {
         "pattern": "cdn.twit.tv",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "TWiT",
         "retailer": "1",
         "iab": "0",
@@ -1042,6 +1164,7 @@
     {
         "pattern": "vrtcdn.be",
         "rss-pattern": "",
+        "rss-url-pattern": "",
         "hostname": "VRT",
         "retailer": "0",
         "iab": "0",
@@ -1055,6 +1178,7 @@
     {
         "pattern": "whooshkaa.com",
         "rss-pattern": "",
+        "rss-url-pattern": "rss.whooshkaa.com",
         "hostname": "Whooshkaa",
         "retailer": "1",
         "iab": "1",
@@ -1068,6 +1192,7 @@
     {
         "pattern": "castfire.com",
         "rss-pattern": "",
+        "rss-url-pattern": "castfire.com",
         "hostname": "WideOrbit",
         "retailer": "0",
         "iab": "0",
@@ -1081,6 +1206,7 @@
     {
         "pattern": "wnyc.org",
         "rss-pattern": "",
+        "rss-url-pattern": "feeds.wnyc.org",
         "hostname": "WNYC",
         "retailer": "0",
         "iab": "0",
