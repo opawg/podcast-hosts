@@ -858,6 +858,19 @@
         "notes": ""
     },
     {
+        "pattern": "shoutengine.com",
+        "rss-pattern": "shoutengine.com",
+        "hostname": "ShoutEngine",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/shoutengine.com",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
         "pattern": "simplecast.com",
         "rss-pattern": "simplecast.com",
         "hostname": "Simplecast",
