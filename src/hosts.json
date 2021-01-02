@@ -14,7 +14,7 @@
     },
     {
         "pattern": "acast.com",
-        "rss-pattern": "rss.acast.com",
+        "rss-pattern": ".acast.com",
         "hostname": "Acast",
         "retailer": "0",
         "iab": "1",
@@ -403,6 +403,19 @@
         "notes": ""
     },
     {
+        "pattern": "librivox.org",
+        "rss-pattern": "librivox.org",
+        "hostname": "https:\/\/librivox.org",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/librivox.org",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
         "pattern": "www.ivoox.com",
         "rss-pattern": "ivoox.com",
         "hostname": "iVoox",
@@ -547,7 +560,7 @@
     },
     {
         "pattern": "nrjaudio.fm",
-        "rss-pattern": "",
+        "rss-pattern": "aod.nrjaudio.fm",
         "hostname": "NRJ-Group",
         "retailer": "0",
         "iab": "0",
@@ -556,6 +569,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.nrjgroup.fr\/",
         "hostprivacyurl": "https:\/\/www.nrjgroup.fr\/politique-de-confidentialite\/",
+        "notes": ""
+    },
+    {
+        "pattern": "api.octopus.saooti.com",
+        "rss-pattern": "api.octopus.saooti.com",
+        "hostname": "Octopus",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/octopus.saooti.com",
+        "hostprivacyurl": "https:\/\/octopus.saooti.com\/main\/pub\/cgu",
         "notes": ""
     },
     {
@@ -625,7 +651,7 @@
     },
     {
         "pattern": "downloads.pod.co",
-        "rss-pattern": "",
+        "rss-pattern": "feed.pod.co",
         "hostname": "Podcast.co",
         "retailer": "1",
         "iab": "0",
@@ -845,6 +871,19 @@
         "notes": ""
     },
     {
+        "pattern": "sermonaudio.com",
+        "rss-pattern": "sermonaudio.com",
+        "hostname": "SermonAudio",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.sermonaudio.com\/",
+        "hostprivacyurl": "https:\/\/www.sermonaudio.com\/privacypolicy.asp",
+        "notes": ""
+    },
+    {
         "pattern": "sharp-stream.com",
         "rss-pattern": "",
         "hostname": "Sharpstream",
@@ -923,6 +962,19 @@
         "notes": "DAI via Triton; https:\/\/rainnews.com\/triton-digital-enters-deal-with-sounder-bringing-dynamic-ad-insertion-to-sounders-podcast-platform\/"
     },
     {
+        "pattern": ".soundon.fm",
+        "rss-pattern": ".soundon.fm",
+        "hostname": "SoundOn",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.soundon.fm",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
         "pattern": "spreaker.com",
         "rss-pattern": "spreaker.com",
         "hostname": "Spreaker",
@@ -959,6 +1011,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.streamguys.com\/",
         "hostprivacyurl": "https:\/\/www.streamguys.com\/privacy",
+        "notes": ""
+    },
+    {
+        "pattern": "subsplash.com",
+        "rss-pattern": "subsplash.com",
+        "hostname": "Subsplash",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.subsplash.com",
+        "hostprivacyurl": "https:\/\/www.subsplash.com\/legal\/privacy",
         "notes": ""
     },
     {
