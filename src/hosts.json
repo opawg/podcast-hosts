@@ -405,7 +405,7 @@
     {
         "pattern": "librivox.org",
         "rss-pattern": "librivox.org",
-        "hostname": "https:\/\/librivox.org",
+        "hostname": "Librivox",
         "retailer": "0",
         "iab": "0",
         "abilities_stats": "0",
