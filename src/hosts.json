@@ -13,6 +13,19 @@
         "notes": ""
     },
     {
+        "pattern": "podcast.abc.es",
+        "rss-pattern": "www.abc.es",
+        "hostname": "ABC es",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.abc.es",
+        "hostprivacyurl": "https:\/\/www.vocento.com\/politica-privacidad\/#vca=link-footer&vmc=abc-es&vso=portada.portada&vli=politica-privacidad",
+        "notes": ""
+    },
+    {
         "pattern": "acast.com",
         "rss-pattern": ".acast.com",
         "hostname": "Acast",
@@ -78,6 +91,19 @@
         "notes": "DAI is called WarpFeed: https:\/\/art19.com\/publishers Attribution: Track campaign effectiveness beyond podcasts with cross-channel attribution https:\/\/art19.com\/advertisers and is also available via Podsights with no prefix https:\/\/podsights.com\/guides\/overview\/"
     },
     {
+        "pattern": "dpvclip.antena3.com",
+        "rss-pattern": "",
+        "hostname": "Atresmedia",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.atresmedia.com",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
         "pattern": "audioboom.com",
         "rss-pattern": "audioboom.com",
         "hostname": "Audioboom",
@@ -105,7 +131,7 @@
     },
     {
         "pattern": "ausha.co",
-        "rss-pattern": "feeds.ausha.co",
+        "rss-pattern": "feed.ausha.co",
         "hostname": "Ausha",
         "retailer": "1",
         "iab": "0",
@@ -115,6 +141,19 @@
         "hosturl": "https:\/\/www.ausha.co\/",
         "hostprivacyurl": "https:\/\/www.ausha.co\/protection-personal-data\/",
         "notes": "No evidence on their website"
+    },
+    {
+        "pattern": "stitch.api.soundcast.fm",
+        "rss-pattern": "feed.ausha.co",
+        "hostname": "Ausha",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/www.ausha.co\/",
+        "hostprivacyurl": "https:\/\/www.ausha.co\/protection-personal-data\/",
+        "notes": "This version has dynamic ads stitched in"
     },
     {
         "pattern": "awesound.com",
@@ -312,6 +351,32 @@
         "notes": ""
     },
     {
+        "pattern": "audios.ccma.cat",
+        "rss-pattern": "",
+        "hostname": "CCMA",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.ccma.cat\/avis-legal\/privacitat-i-cookies\/",
+        "hostprivacyurl": "",
+        "notes": ""
+    },
+    {
+        "pattern": "cope-cdnmed.agilecontent.com",
+        "rss-pattern": "www.cope.es",
+        "hostname": "COPE",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.cope.es",
+        "hostprivacyurl": "https:\/\/www.cope.es\/pagina\/politica-de-privacidad",
+        "notes": ""
+    },
+    {
         "pattern": "audio.hosting.thisisdax.com",
         "rss-pattern": "",
         "hostname": "DAX",
@@ -364,6 +429,19 @@
         "notes": ""
     },
     {
+        "pattern": "feedpress.me",
+        "rss-pattern": "feedpress.me",
+        "hostname": "Feedpress",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/feedpress.com",
+        "hostprivacyurl": "https:\/\/feedpress.com\/privacy-policy",
+        "notes": ""
+    },
+    {
         "pattern": "fireside.fm",
         "rss-pattern": "feeds.fireside.fm",
         "hostname": "Fireside",
@@ -374,6 +452,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/fireside.fm\/",
         "hostprivacyurl": "https:\/\/fireside.fm\/privacy",
+        "notes": ""
+    },
+    {
+        "pattern": "flumotion.com",
+        "rss-pattern": "",
+        "hostname": "Flumotion",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.flumotion.com",
+        "hostprivacyurl": "",
         "notes": ""
     },
     {
@@ -400,19 +491,6 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.hipcast.com\/",
         "hostprivacyurl": "https:\/\/www.hipcast.com\/signup\/privacy.htm",
-        "notes": ""
-    },
-    {
-        "pattern": "librivox.org",
-        "rss-pattern": "librivox.org",
-        "hostname": "Librivox",
-        "retailer": "0",
-        "iab": "0",
-        "abilities_stats": "0",
-        "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
-        "hosturl": "https:\/\/librivox.org",
-        "hostprivacyurl": "",
         "notes": ""
     },
     {
@@ -465,6 +543,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.leanstream.net\/",
         "hostprivacyurl": "https:\/\/www.leanstream.net\/privacy\/index.html",
+        "notes": ""
+    },
+    {
+        "pattern": "librivox.org",
+        "rss-pattern": "librivox.org",
+        "hostname": "Librivox",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/librivox.org",
+        "hostprivacyurl": "",
         "notes": ""
     },
     {
@@ -530,6 +621,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.messy.fm",
         "hostprivacyurl": "https:\/\/www.messy.fm\/privacy",
+        "notes": ""
+    },
+    {
+        "pattern": "media.nhschoices.nhs.uk",
+        "rss-pattern": "",
+        "hostname": "NHS",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.nhs.uk",
+        "hostprivacyurl": "https:\/\/www.nhs.uk\/our-policies\/privacy-policy\/",
         "notes": ""
     },
     {
@@ -663,6 +767,19 @@
         "notes": ""
     },
     {
+        "pattern": "podcastics.com",
+        "rss-pattern": "podcastics.com",
+        "hostname": "Podcastics",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.podcastics.com\/en\/",
+        "hostprivacyurl": "https:\/\/www.podcastics.com\/privacy\/",
+        "notes": ""
+    },
+    {
         "pattern": "cdn.podcasts.com",
         "rss-pattern": ".podcasts.com",
         "hostname": "podcasts.com",
@@ -780,6 +897,19 @@
         "notes": ""
     },
     {
+        "pattern": "assets.primaverasound.com",
+        "rss-pattern": "www.primaverasound.com",
+        "hostname": "Primavera Sound",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.primaverasound.com\/en",
+        "hostprivacyurl": "https:\/\/www.primaverasound.com\/en\/privacy-policy-for-primavera-sound-barcelona",
+        "notes": ""
+    },
+    {
         "pattern": "dovetail.prxu.org",
         "rss-pattern": "",
         "hostname": "PRX",
@@ -790,6 +920,32 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.prx.org\/",
         "hostprivacyurl": "https:\/\/www.prx.org\/privacy-policy",
+        "notes": ""
+    },
+    {
+        "pattern": "download.ted.com",
+        "rss-pattern": "",
+        "hostname": "PRX",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/www.prx.org\/",
+        "hostprivacyurl": "https:\/\/www.prx.org\/privacy-policy",
+        "notes": ""
+    },
+    {
+        "pattern": "audioserver.rac1.cat",
+        "rss-pattern": "api.audioteca.rac1.cat",
+        "hostname": "RAC1",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.rac1.cat",
+        "hostprivacyurl": "https:\/\/www.rac1.cat\/politica-privacitat",
         "notes": ""
     },
     {
@@ -842,6 +998,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/rss.com",
         "hostprivacyurl": "https:\/\/rss.com\/privacy-policy",
+        "notes": ""
+    },
+    {
+        "pattern": "www.rtl.fr",
+        "rss-pattern": "www.rtl.fr",
+        "hostname": "RTL",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.rtl.fr",
+        "hostprivacyurl": "",
         "notes": ""
     },
     {
@@ -936,6 +1105,19 @@
         "notes": "DAI: https:\/\/blog.simplecast.com\/dynamic-ad-insertion-101\/"
     },
     {
+        "pattern": "simplecastcdn.com",
+        "rss-pattern": "feeds.simplecast.com",
+        "hostname": "Simplecast",
+        "retailer": "1",
+        "iab": "1",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/simplecast.com\/",
+        "hostprivacyurl": "https:\/\/simplecast.com\/privacy\/",
+        "notes": "DAI: https:\/\/blog.simplecast.com\/dynamic-ad-insertion-101\/"
+    },
+    {
         "pattern": "feeds.soundcloud.com",
         "rss-pattern": "feeds.soundcloud.com",
         "hostname": "Soundcloud",
@@ -998,6 +1180,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.squarespace.com\/",
         "hostprivacyurl": "https:\/\/www.squarespace.com\/privacy",
+        "notes": ""
+    },
+    {
+        "pattern": "www.1001podcast.com",
+        "rss-pattern": "www.1001podcast.com",
+        "hostname": "Streamakaci",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.streamakaci.com",
+        "hostprivacyurl": "https:\/\/www.streamakaci.com\/legal.php",
         "notes": ""
     },
     {
