@@ -1157,6 +1157,19 @@
         "notes": ""
     },
     {
+        "pattern": "audio.spokenlayer.com",
+        "rss-pattern": "api.spokenlayer.com",
+        "hostname": "SpokenLayer",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/spokenlayer.com",
+        "hostprivacyurl": "https:\/\/spokenlayer.com\/privacy-policy\/",
+        "notes": ""
+    },
+    {
         "pattern": "spreaker.com",
         "rss-pattern": "spreaker.com",
         "hostname": "Spreaker",
@@ -1258,6 +1271,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.tandempodcasting.com",
         "hostprivacyurl": "https:\/\/www.tandempodcasting.com\/privacy-policy",
+        "notes": ""
+    },
+    {
+        "pattern": "podcast.washpostpodcasts.com",
+        "rss-pattern": "podcast.posttv.com",
+        "hostname": "The Washington Post",
+        "retailer": "0",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.washingtonpost.com",
+        "hostprivacyurl": "https:\/\/www.washingtonpost.com\/privacy-policy\/2011\/11\/18\/gIQASIiaiN_story.html",
         "notes": ""
     },
     {
@@ -1375,6 +1401,19 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.wnyc.org\/",
         "hostprivacyurl": "https:\/\/www.wnyc.org\/privacy\/",
+        "notes": ""
+    },
+    {
+        "pattern": "media.zencast.fm",
+        "rss-pattern": "media.zencast.fm",
+        "hostname": "Zencast",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.zencast.fm",
+        "hostprivacyurl": "https:\/\/www.zencast.fm\/privacy",
         "notes": ""
     }
 ]
