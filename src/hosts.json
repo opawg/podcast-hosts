@@ -36,7 +36,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.acast.com\/",
         "hostprivacyurl": "https:\/\/www.acast.com\/en\/privacy",
-        "notes": "Attribution: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution - Server Side Ad Insertion: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution"
+        "notes": "Attribution: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution and https:\/\/www.kantar.com\/north-america\/company-news\/kantar-announces-measurement-partnerships-with-major-podcast-platforms - Server Side Ad Insertion: https:\/\/learn.acast.com\/en\/articles\/4153756-campaign-manager-tracking-and-attribution"
     },
     {
         "pattern": "pippa.io",
@@ -560,7 +560,7 @@
     },
     {
         "pattern": "traffic.libsyn.com",
-        "rss-pattern": "libsynpro.com",
+        "rss-pattern": "libsyn.com",
         "hostname": "Libsyn",
         "retailer": "1",
         "iab": "1",
@@ -608,7 +608,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/www.megaphone.fm",
         "hostprivacyurl": "https:\/\/www.megaphone.fm\/terms\/privacy",
-        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/ Tracking is available through Podsights without any prefix https:\/\/podsights.com\/guides\/overview\/"
+        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/ Tracking is available through Podsights without any prefix https:\/\/podsights.com\/guides\/overview\/ and Kantar https:\/\/www.kantar.com\/north-america\/company-news\/kantar-announces-measurement-partnerships-with-major-podcast-platforms"
     },
     {
         "pattern": "messy.fm",
@@ -703,7 +703,7 @@
     },
     {
         "pattern": "omny.fm",
-        "rss-pattern": "omnycontent.com",
+        "rss-pattern": "omny.fm",
         "hostname": "Omny Studio",
         "retailer": "1",
         "iab": "1",
@@ -806,6 +806,19 @@
         "notes": ""
     },
     {
+        "pattern": "feeds.podetize.com",
+        "rss-pattern": "feeds.podetize.com",
+        "hostname": "Podetize",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/podetize.com\/",
+        "hostprivacyurl": "https:\/\/podetize.com\/privacy-policy\/",
+        "notes": ""
+    },
+    {
         "pattern": "podiant.co",
         "rss-pattern": "feeds.podiant.co",
         "hostname": "Podiant",
@@ -885,7 +898,7 @@
     },
     {
         "pattern": "media.pod.space",
-        "rss-pattern": "",
+        "rss-pattern": "feed.pod.space",
         "hostname": "Podspace",
         "retailer": "1",
         "iab": "0",
@@ -1118,6 +1131,19 @@
         "notes": "DAI: https:\/\/blog.simplecast.com\/dynamic-ad-insertion-101\/"
     },
     {
+        "pattern": "smartpod.no",
+        "rss-pattern": "smartpod.no",
+        "hostname": "Smartpod",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/smartpod.no\/",
+        "hostprivacyurl": "https:\/\/www.p4.no\/personvern",
+        "notes": ""
+    },
+    {
         "pattern": "feeds.soundcloud.com",
         "rss-pattern": "feeds.soundcloud.com",
         "hostname": "Soundcloud",
@@ -1183,6 +1209,19 @@
         "notes": "DAI: https:\/\/internetfolks.com\/best-podcast-hosting-for-monetization\/"
     },
     {
+        "pattern": "app.springcast.fm",
+        "rss-pattern": "app.springcast.fm",
+        "hostname": "Springcast",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/springcast.fm\/",
+        "hostprivacyurl": "https:\/\/springcast.fm\/blog\/cookie-policy-wat-wij-allemaal-tracken\/",
+        "notes": ""
+    },
+    {
         "pattern": "squarespace.com",
         "rss-pattern": ".squarespace.com",
         "hostname": "Squarespace",
@@ -1210,7 +1249,7 @@
     },
     {
         "pattern": "streamguys1.com",
-        "rss-pattern": "",
+        "rss-pattern": "streamguys1.com",
         "hostname": "StreamGuys",
         "retailer": "1",
         "iab": "0",
@@ -1342,7 +1381,7 @@
         "pattern": "cdn.twit.tv",
         "rss-pattern": "",
         "hostname": "TWiT",
-        "retailer": "1",
+        "retailer": "0",
         "iab": "0",
         "abilities_stats": "1",
         "abilities_tracking": "1",
