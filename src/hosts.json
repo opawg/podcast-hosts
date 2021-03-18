@@ -1454,5 +1454,18 @@
         "hosturl": "https:\/\/www.zencast.fm",
         "hostprivacyurl": "https:\/\/www.zencast.fm\/privacy",
         "notes": ""
+    },
+    {
+        "pattern": "stats.podcloud.fr",
+        "rss-pattern": "",
+        "hostname": "podCloud",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/podcloud.fr\/",
+        "hostprivacyurl": "https:\/\/podcloud.fr\/privacy",
+        "notes": ""
     }
 ]
