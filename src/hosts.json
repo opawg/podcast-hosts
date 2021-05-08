@@ -819,6 +819,19 @@
         "notes": ""
     },
     {
+        "pattern": "stats.podcloud.fr",
+        "rss-pattern": "",
+        "hostname": "Podcloud",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/podcloud.fr\/",
+        "hostprivacyurl": "https:\/\/podcloud.fr\/privacy",
+        "notes": ""
+    },
+    {
         "pattern": "feeds.podetize.com",
         "rss-pattern": "feeds.podetize.com",
         "hostname": "Podetize",
@@ -917,7 +930,7 @@
         "iab": "0",
         "abilities_stats": "0",
         "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
+        "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/pod.space\/",
         "hostprivacyurl": "https:\/\/pod.space\/privacy",
         "notes": ""
@@ -1466,19 +1479,6 @@
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.zencast.fm",
         "hostprivacyurl": "https:\/\/www.zencast.fm\/privacy",
-        "notes": ""
-    },
-    {
-        "pattern": "stats.podcloud.fr",
-        "rss-pattern": "",
-        "hostname": "podCloud",
-        "retailer": "1",
-        "iab": "0",
-        "abilities_stats": "1",
-        "abilities_tracking": "0",
-        "abilities_dynamicaudio": "0",
-        "hosturl": "https:\/\/podcloud.fr\/",
-        "hostprivacyurl": "https:\/\/podcloud.fr\/privacy",
         "notes": ""
     }
 ]
