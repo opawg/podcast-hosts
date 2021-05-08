@@ -507,6 +507,19 @@
         "notes": ""
     },
     {
+        "pattern": "julephosting.de",
+        "rss-pattern": "julephosting.de",
+        "hostname": "Julep Hosting",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.julephosting.de",
+        "hostprivacyurl": "https:\/\/www.julephosting.de\/datenschutzerklaerung\/",
+        "notes": ""
+    },
+    {
         "pattern": "media.adknit.com",
         "rss-pattern": "",
         "hostname": "knit",
@@ -1157,8 +1170,8 @@
         "notes": ""
     },
     {
-        "pattern": "cdn.sounder.fm",
-        "rss-pattern": "feeds.sounder.fm",
+        "pattern": ".sounder.fm",
+        "rss-pattern": ".sounder.fm",
         "hostname": "Sounder",
         "retailer": "1",
         "iab": "0",
