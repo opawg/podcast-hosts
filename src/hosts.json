@@ -481,6 +481,19 @@
         "notes": ""
     },
     {
+        "pattern": "podcasts.helloaudio.fm",
+        "rss-pattern": "podcasts.helloaudio.fm",
+        "hostname": "Hello Audio",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/www.helloaudio.fm",
+        "hostprivacyurl": "https:\/\/www.helloaudio.fm\/privacy",
+        "notes": ""
+    },
+    {
         "pattern": ".hipcast.com",
         "rss-pattern": ".hipcast.com",
         "hostname": "Hipcast",
@@ -511,7 +524,7 @@
         "rss-pattern": "julephosting.de",
         "hostname": "Julep Hosting",
         "retailer": "1",
-        "iab": "0",
+        "iab": "1",
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "0",
