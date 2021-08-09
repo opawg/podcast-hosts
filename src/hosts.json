@@ -1493,5 +1493,18 @@
         "hosturl": "https:\/\/www.zencast.fm",
         "hostprivacyurl": "https:\/\/www.zencast.fm\/privacy",
         "notes": ""
+    },
+    {
+        "pattern": "3speak.tv",
+        "rss-pattern": "3speak.tv",
+        "hostname": "3speak",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "0",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/3speak.tv",
+        "hostprivacyurl": "https:\/\/3speak.tv\/intl\/privacy",
+        "notes": ""
     }
 ]
