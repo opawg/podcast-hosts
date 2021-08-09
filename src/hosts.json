@@ -616,11 +616,11 @@
         "hostname": "Megafono",
         "retailer": "1",
         "iab": "0",
-        "abilities_stats": "0",
-        "abilities_tracking": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
         "abilities_dynamicaudio": "0",
         "hosturl": "https:\/\/www.megafono.host\/",
-        "hostprivacyurl": "",
+        "hostprivacyurl": "https:\/\/www.megafono.host\/privacy-policy",
         "notes": ""
     },
     {
