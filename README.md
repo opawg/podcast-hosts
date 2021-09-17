@@ -41,6 +41,8 @@ Each entry _can_ contain the following properties:
 
 * `notes`: a freeform text link with details of evidence of 'abilities' claims. Ideally, all podcast hosts that have these indicated will have evidence in this field.
 
+* `pi-slug`: a freeform text value that is the podcast host slug used by Podcast Index to report who hosts what. Podcast Index lists many more host names.
+
 ## Code sample
 
 Podnews uses the below to extract a host's name, and privacy details, in podcast pages ([example](https://podnews.net/podcast/1287081706)).
