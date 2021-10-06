@@ -897,8 +897,8 @@
     },
     {
         "pattern": "stats.podcloud.fr",
-        "rss-pattern": "",
-        "hostname": "Podcloud",
+        "rss-pattern": ".lepodcast.fr",
+        "hostname": "podCloud",
         "retailer": "1",
         "iab": "0",
         "abilities_stats": "1",
