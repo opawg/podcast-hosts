@@ -1709,7 +1709,7 @@
     {
       "pattern": "audio.rferl.org",
       "rss-pattern": "",
-      "hostname": "Radio Free Europe\/RadioLiberty",
+      "hostname": "Radio Free Europe and Radio Liberty",
       "retailer": "0",
       "iab": "0",
       "abilities_stats": "0",
@@ -1723,7 +1723,7 @@
     {
       "pattern": "aragonradio.es",
       "rss-pattern": "",
-      "hostname": "Aragón Radio (CARTV)",
+      "hostname": "Aragon Radio CARTV",
       "retailer": "0",
       "iab": "0",
       "abilities_stats": "0",
@@ -1847,7 +1847,7 @@
     {
       "pattern": "echo.msk.ru",
       "rss-pattern": "",
-      "hostname": "Эхо Москвы",
+      "hostname": "msk.ru",
       "retailer": "0",
       "iab": "0",
       "abilities_stats": "0",
@@ -1875,7 +1875,7 @@
     {
       "pattern": "lizhi.fm",
       "rss-pattern": "",
-      "hostname": "FM-荔枝",
+      "hostname": "lizhi.fm",
       "retailer": "1",
       "iab": "0",
       "abilities_stats": "0",
@@ -1931,7 +1931,7 @@
     {
       "pattern": "rozhlas.cz",
       "rss-pattern": "",
-      "hostname": "Český rozhlas",
+      "hostname": "Cesky rozhlas",
       "retailer": "0",
       "iab": "0",
       "abilities_stats": "0",
@@ -1973,7 +1973,7 @@
     {
       "pattern": "up.seesaa.net",
       "rss-pattern": "",
-      "hostname": "Seesaaブログ",
+      "hostname": "Seesaa",
       "retailer": "1",
       "iab": "0",
       "abilities_stats": "0",
@@ -2098,7 +2098,7 @@
     {
       "pattern": "podty.me",
       "rss-pattern": "",
-      "hostname": "팟티",
+      "hostname": "Podty",
       "retailer": "1",
       "iab": "0",
       "abilities_stats": "0",
