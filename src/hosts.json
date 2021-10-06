@@ -798,7 +798,7 @@
         "pi-slug": "omny.fm"
     },
     {
-        "pattern": "pinecast.com\/listen",
+        "pattern": "pinecast.com",
         "rss-pattern": "pinecast.com",
         "hostname": "Pinecast",
         "retailer": "1",
