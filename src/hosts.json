@@ -2371,5 +2371,19 @@
       "hostprivacyurl": "https:\/\/djpod.com\/privacy-policy",
       "notes": "",
       "pi-slug": ""
-    }
+    },
+    {
+      "pattern": "timber.fm",
+      "rss-pattern": "timber.fm",
+      "hostname": "Timber",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "0",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/timber.fm\/",
+      "hostprivacyurl": "https:\/\/timber.fm\/privacy-policy\/",
+      "notes": "",
+      "pi-slug": ""
+    },
 ]
