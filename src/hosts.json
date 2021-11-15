@@ -2385,5 +2385,19 @@
       "hostprivacyurl": "https:\/\/timber.fm\/privacy-policy\/",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "d3mww1g1pfq2pt.cloudfront.net",
+      "rss-pattern": "firstory.me",
+      "hostname": "Firstory",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "1",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/firstory.me\/",
+      "hostprivacyurl": "https:\/\/firstory.me\/privacy-policy\/",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
