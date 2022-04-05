@@ -1122,7 +1122,7 @@
     {
         "pattern": "rss.com",
         "rss-pattern": ".rss.com",
-        "hostname": "RSS Podcasting",
+        "hostname": "RSS.com",
         "retailer": "1",
         "iab": "0",
         "abilities_stats": "1",
