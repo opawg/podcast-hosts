@@ -80,7 +80,7 @@
         "abilities_dynamicaudio": "1",
         "hosturl": "https:\/\/afripods.africa",
         "hostprivacyurl": "https:\/\/afripods.africa\/privacy-policy",
-        "notes": "Dynamic Ad Insertion: Afripods have an IAB certified digital audio advertising partner (Adswizz) for providing ADI.",
+        "notes": "Dynamic Ad Insertion: Afripods have an IAB certified digital audio advertising partner (Adswizz) for providing DAI.",
         "pi-slug": "Afripods"
     },
     {
