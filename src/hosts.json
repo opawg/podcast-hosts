@@ -70,6 +70,20 @@
         "pi-slug": "Acast"
     },
     {
+        "pattern": "afripods.com",
+        "rss-pattern": "afripods.com",
+        "hostname": "Afripods",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/afripods.africa",
+        "hostprivacyurl": "https:\/\/afripods.africa\/privacy-policy",
+        "notes": "Dynamic Ad Insertion: Afripods have an IAB certified digital audio advertising partner (Adswizz) for providing DAI.",
+        "pi-slug": "Afripods"
+    },
+    {
         "pattern": "publicradio.org",
         "rss-pattern": ".publicradio.org",
         "hostname": "American Public Media",
