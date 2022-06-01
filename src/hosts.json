@@ -2441,5 +2441,19 @@
       "hostprivacyurl": "https:\/\/www.cohostpodcasting.com\/privacy-policy",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "podvine.com",
+      "rss-pattern": "podvine.com",
+      "hostname": "Podvine",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "1",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/podvine.com\/",
+      "hostprivacyurl": "https:\/\/podvine.com\/privacy-policy",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
