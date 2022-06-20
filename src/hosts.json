@@ -644,7 +644,7 @@
         "pi-slug": "Librivox"
     },
     {
-        "pattern": "traffic.libsyn.com",
+        "pattern": "libsyn.com",
         "rss-pattern": "libsyn.com",
         "hostname": "Libsyn",
         "retailer": "1",
@@ -652,23 +652,9 @@
         "abilities_stats": "1",
         "abilities_tracking": "0",
         "abilities_dynamicaudio": "1",
-        "hosturl": "https:\/\/www.libsyn.com\/",
-        "hostprivacyurl": "https:\/\/libsyn.com\/tos-policies\/legal\/",
-        "notes": "Dynamic ad insertion described as 'Ad stitching to...",
-        "pi-slug": "Libsyn"
-    },
-    {
-        "pattern": "traffic.libsyn.com",
-        "rss-pattern": "libsynpro.com",
-        "hostname": "LibsynPro",
-        "retailer": "0",
-        "iab": "1",
-        "abilities_stats": "1",
-        "abilities_tracking": "0",
-        "abilities_dynamicaudio": "1",
-        "hosturl": "https:\/\/libsynpro.com\/",
-        "hostprivacyurl": "https:\/\/libsynpro.com\/terms-of-service\/",
-        "notes": "Dynamic ad insertion described as 'Ad stitching tools' here: https:\/\/libsyn.com\/monetization\/",
+        "hosturl": "https:\/\/libsyn.com\/",
+        "hostprivacyurl": "https:\/\/libsyn.com\/tos-policies\/privacy-policy\/",
+        "notes": "Dynamic ad insertion via AdvertiseCast, described here: https:\/\/www.advertisecast.com\/podcast-ad-units",
         "pi-slug": "Libsyn"
     },
     {
