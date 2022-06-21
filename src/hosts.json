@@ -2466,7 +2466,7 @@
       "abilities_tracking": "0",
       "abilities_dynamicaudio": "1",
       "hosturl": "https:\/\/global.com\/dax\/audio\/podcast-publishers\/",
-      "hostprivacyurl": "https://global.com/legal/privacy-policy",
+      "hostprivacyurl": "https:\/\/global.com\/legal\/privacy-policy",
       "notes": "Uses Spreaker as a whitelabelled CMS for their network of shows",
       "pi-slug": ""
     }
