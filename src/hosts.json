@@ -2457,17 +2457,17 @@
       "pi-slug": ""
     },
     {
-      "pattern": "api.spreaker.com",
+      "pattern": "spreaker.com",
       "rss-pattern": "podcast.global.com",
       "hostname": "Global",
       "retailer": "0",
-      "iab": "0",
+      "iab": "1",
       "abilities_stats": "1",
-      "abilities_tracking": "1",
+      "abilities_tracking": "0",
       "abilities_dynamicaudio": "1",
-      "hosturl": "https://global.com/",
+      "hosturl": "https:\/\/global.com\/dax\/audio\/podcast-publishers\/",
       "hostprivacyurl": "https://global.com/legal/privacy-policy",
-      "notes": "",
+      "notes": "Uses Spreaker as a whitelabelled CMS for their network of shows",
       "pi-slug": ""
     }
 ]
