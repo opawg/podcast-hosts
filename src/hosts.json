@@ -2455,5 +2455,47 @@
       "hostprivacyurl": "https:\/\/global.com\/legal\/privacy-policy",
       "notes": "Uses Spreaker as a whitelabelled CMS for their network of shows",
       "pi-slug": ""
+    },
+    {
+      "pattern": "meinpodcast.de",
+      "rss-pattern": "meinpodcast.de",
+      "hostname": "Podcastbude",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/kostenlos-hosten.de\/",
+      "hostprivacyurl": "https:\/\/kostenlos-hosten.de\/datenschutz\/",
+      "notes": "",
+      "pi-slug": ""
+    },
+    {
+      "pattern": "meinmusikpodcast.de",
+      "rss-pattern": "meinmusikpodcast.de",
+      "hostname": "Podcastbude",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/kostenlos-hosten.de\/",
+      "hostprivacyurl": "https:\/\/kostenlos-hosten.de\/datenschutz\/",
+      "notes": "",
+      "pi-slug": ""
+    },
+    {
+      "pattern": "meinsportpodcast.de",
+      "rss-pattern": "meinsportpodcast.de",
+      "hostname": "Podcastbude",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/kostenlos-hosten.de\/",
+      "hostprivacyurl": "https:\/\/kostenlos-hosten.de\/datenschutz\/",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
