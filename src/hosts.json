@@ -2511,5 +2511,19 @@
       "hostprivacyurl": "https:\/\/www.stationista.com\/privacy-policy\/",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "podeo.co",
+      "rss-pattern": "podeo.co",
+      "hostname": "Podeo",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/podeo.co\/",
+      "hostprivacyurl": "https://podeo.co\/legal\/",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
