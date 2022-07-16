@@ -2525,5 +2525,19 @@
       "hostprivacyurl": "https://podeo.co\/legal\/",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "disctopia.com",
+      "rss-pattern": "disctopia.com",
+      "hostname": "Disctopia",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/disctopia.com\/",
+      "hostprivacyurl": "https:\/\/disctopia.com\/privacy-terms-and-conditions\/",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
