@@ -2539,5 +2539,19 @@
       "hostprivacyurl": "https:\/\/disctopia.com\/privacy-terms-and-conditions\/",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "vodio.fr",
+      "rss-pattern": "vodio.fr",
+      "hostname": "Vodio",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/vodio.fr\/",
+      "hostprivacyurl": "https:\/\/www.vodio.fr\/p\/5\/c-g-u\/",
+      "notes": "Le podcast accessible à tous. Vous créez, on héberge. 0€/mois sans publicités, ni frais cachés.",
+      "pi-slug": ""
     }
 ]
