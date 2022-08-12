@@ -2419,7 +2419,7 @@
       "rss-pattern": "cohostpodcasting.com",
       "hostname": "CoHost",
       "retailer": "1",
-      "iab": "0",
+      "iab": "1",
       "abilities_stats": "1",
       "abilities_tracking": "1",
       "abilities_dynamicaudio": "0",
