@@ -2567,5 +2567,19 @@
       "hostprivacyurl": "https:\/\/github.com\/podhustlr\/legal\/blob\/main\/terms-of-service.md",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "digitivweb.s3.us-east-2.amazonaws.com",
+      "rss-pattern": "podopshost.com",
+      "hostname": "PodOps",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "1",
+      "hosturl": "https:\/\/www.thepodops.com/\/",
+      "hostprivacyurl": "https:\/\/www.thepodops.com\/privacy-policy\/",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
