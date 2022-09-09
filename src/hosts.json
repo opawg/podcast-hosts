@@ -2581,5 +2581,19 @@
       "hostprivacyurl": "https:\/\/www.thepodops.com\/privacy-policy\/",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "rssblue.com",
+      "rss-pattern": "rssblue.com",
+      "hostname": "RSS Blue",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "0",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/rssblue.com\/",
+      "hostprivacyurl": "https:\/\/rssblue.com\/privacy",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
