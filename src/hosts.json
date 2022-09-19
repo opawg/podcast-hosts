@@ -420,8 +420,8 @@
         "pi-slug": "cope.es"
     },
     {
-        "pattern": "audio.hosting.thisisdax.com",
-        "rss-pattern": "",
+        "pattern": "thisisdax.com",
+        "rss-pattern": "thisisdax.com",
         "hostname": "DAX",
         "retailer": "0",
         "iab": "0",
@@ -431,7 +431,7 @@
         "hosturl": "https:\/\/thisisdax.com\/",
         "hostprivacyurl": "https:\/\/global.com\/privacy-policy\/",
         "notes": "Dynamic ad insertion: https:\/\/thisisdax.com\/podcasts\/",
-        "pi-slug": "hosting.thisisdax.com"
+        "pi-slug": "thisisdax.com"
     },
     {
         "pattern": "entale.co",
