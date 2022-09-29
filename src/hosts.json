@@ -2595,5 +2595,19 @@
       "hostprivacyurl": "https:\/\/rssblue.com\/privacy",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "alitu.com",
+      "rss-pattern": "alitu.com",
+      "hostname": "Alitu",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "0",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/alitu.com\/",
+      "hostprivacyurl": "https:\/\/alitu.com\/privacy-policy",
+      "notes": "",
+      "pi-slug": ""
     }
 ]
