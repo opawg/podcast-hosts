@@ -322,7 +322,7 @@
         "pi-slug": "caproni.fm"
     },
     {
-        "pattern": "podcasts.captivate.fm\/media",
+        "pattern": "captivate.fm",
         "rss-pattern": "feeds.captivate.fm",
         "hostname": "Captivate",
         "retailer": "1",
