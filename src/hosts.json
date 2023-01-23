@@ -798,6 +798,20 @@
         "pi-slug": "omny.fm"
     },
     {
+        "pattern": "oncetold.net",
+        "rss-pattern": "feeds.oncetold.net",
+        "hostname": "Oncetold",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "0",
+        "hosturl": "https:\/\/oncetold.us\/",
+        "hostprivacyurl": "https:\/\/oncetold.us\/terms",
+        "notes": "",
+        "pi-slug": "Oncetold"
+    },
+    {
         "pattern": "pinecast.com",
         "rss-pattern": "pinecast.com",
         "hostname": "Pinecast",
