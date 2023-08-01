@@ -1036,6 +1036,20 @@
         "pi-slug": "pod.space"
     },
     {
+        "pattern": "podtoo.com",
+        "rss-pattern": ".podtoo.com",
+        "hostname": "PodToo",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "1",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/www.podtoo.com\/",
+        "hostprivacyurl": "https:\/\/www.podtoo.com\/en\/privacy",
+        "notes": "",
+        "pi-slug": "PodToo"
+    },
+    {
         "pattern": "assets.primaverasound.com",
         "rss-pattern": "www.primaverasound.com",
         "hostname": "Primavera Sound",
