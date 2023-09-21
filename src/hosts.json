@@ -2650,5 +2650,19 @@
       "hosturl": "https:\/\/jellycast.com\/",
       "notes": "",
       "pi-slug": ""
+    },
+    {
+      "pattern": "jamit.app",
+      "rss-pattern": "feed.jamit.app",
+      "hostname": "Jamit",
+      "retailer": "1",
+      "iab": "0",
+      "abilities_stats": "1",
+      "abilities_tracking": "0",
+      "abilities_dynamicaudio": "0",
+      "hosturl": "https:\/\/jamit.app\/",
+      "hostprivacyurl": "https:\/\/jamit.app\/legal\/privacy",
+      "notes": "",
+      "pi-slug": "jamit"
     }
 ]
