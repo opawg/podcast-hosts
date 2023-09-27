@@ -2664,5 +2664,19 @@
       "hostprivacyurl": "https:\/\/jamit.app\/legal\/privacy",
       "notes": "",
       "pi-slug": "jamit"
-    }
+    },
+  {
+    "pattern": "serve.podhome.fm",
+    "rss-pattern": "serve.podhome.fm",
+    "hostname": "Podhome",
+    "retailer": "1",
+    "iab": "0",
+    "abilities_stats": "1",
+    "abilities_tracking": "0",
+    "abilities_dynamicaudio": "0",
+    "hosturl": "https:\/\/podhome.fm\/",
+    "hostprivacyurl": "https:\/\/podhome.fm\/\/privacy",
+    "notes": "",
+    "pi-slug": "podhome"
+  }
 ]
