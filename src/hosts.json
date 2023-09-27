@@ -2667,7 +2667,7 @@
     },
   {
     "pattern": "serve.podhome.fm",
-    "rss-pattern": "",
+    "rss-pattern": "serve.podhome.fm",
     "hostname": "Podhome",
     "retailer": "1",
     "iab": "0",
