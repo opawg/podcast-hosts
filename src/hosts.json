@@ -588,6 +588,20 @@
         "pi-slug": "julephosting.de"
     },
     {
+        "pattern": "katapod.com",
+        "rss-pattern": "feeds.katapod.com",
+        "hostname": "Katapod",
+        "retailer": "1",
+        "iab": "0",
+        "abilities_stats": "1",
+        "abilities_tracking": "0",
+        "abilities_dynamicaudio": "1",
+        "hosturl": "https:\/\/www.katapod.com\/",
+        "hostprivacyurl": "https:\/\/www.katapod.com\/policy\/privacy-policy",
+        "notes": "Dynamic audio described in https:\/\/castos.com\/dynamic-ad-insertion-for-podcasts\/",
+        "pi-slug": "Katapod"
+    },
+    {
         "pattern": "media.adknit.com",
         "rss-pattern": "",
         "hostname": "knit",
