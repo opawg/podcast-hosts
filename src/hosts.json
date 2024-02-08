@@ -2692,5 +2692,19 @@
     "hostprivacyurl": "https:\/\/podhome.fm\/\/privacy",
     "notes": "",
     "pi-slug": "podhome"
+  },
+  {
+    "pattern": "redirect.zencastr.com",
+    "rss-pattern": "feeds.zencastr.com",
+    "hostname": "Zencastr",
+    "retailer": "1",
+    "iab": "0",
+    "abilities_stats": "0",
+    "abilities_tracking": "0",
+    "abilities_dynamicaudio": "0",
+    "hosturl": "https:\/\/www.zencastr.com",
+    "hostprivacyurl": "https:\/\/www.zencastr.com\/privacy-policy",
+    "notes": "",
+    "pi-slug": "zencastr.com"
   }
 ]
