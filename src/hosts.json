@@ -2347,6 +2347,20 @@
     "pi-slug": ""
   },
   {
+    "pattern": "voicemi.es",
+    "rss-pattern": "",
+    "hostname": "VoiceMi",
+    "retailer": "1",
+    "iab": "1",
+    "abilities_stats": "1",
+    "abilities_tracking": "1",
+    "abilities_dynamicaudio": "1",
+    "hosturl": "https:\/\/voicemi.es\/",
+    "hostprivacyurl": "https:\/\/voicemi.es\/privacidad",
+    "notes": "",
+    "pi-slug": ""
+  },
+  {
     "pattern": "cuonda.com",
     "rss-pattern": "",
     "hostname": "Cuonda",
