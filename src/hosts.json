@@ -1180,7 +1180,7 @@
     "rss-pattern": ".rss.com",
     "hostname": "RSS.com",
     "retailer": "1",
-    "iab": "0",
+    "iab": "1",
     "abilities_stats": "1",
     "abilities_tracking": "0",
     "abilities_dynamicaudio": "0",
