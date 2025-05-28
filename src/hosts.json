@@ -980,7 +980,7 @@
     "pi-slug": "podiant.co"
   },
   {
-    "pattern": "cdn.podigee.com",
+    "pattern": "podigee-cdn.net",
     "rss-pattern": "podigee.io",
     "hostname": "Podigee",
     "retailer": "1",
