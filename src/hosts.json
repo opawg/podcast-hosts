@@ -1050,6 +1050,20 @@
     "pi-slug": "podpoint.com"
   },
   {
+    "pattern": "",
+    "rss-pattern": "rss.pdrl.fm",
+    "hostname": "PodRoll",
+    "retailer": "0",
+    "iab": "0",
+    "abilities_stats": "1",
+    "abilities_tracking": "1",
+    "abilities_dynamicaudio": "1",
+    "hosturl": "https:\/\/podroll.fm",
+    "hostprivacyurl": "https:\/\/podroll.fm\/privacy",
+    "notes": "PodRoll re-hosts feeds to enable dynamic RSS features: https:\/\/intercom.help\/podroll\/en\/articles\/7210995-podroll-prefix-links",
+    "pi-slug": ""
+  },
+  {
     "pattern": "media.pod.space",
     "rss-pattern": "feed.pod.space",
     "hostname": "Podspace",
