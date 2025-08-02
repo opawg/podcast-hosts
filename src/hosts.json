@@ -2735,5 +2735,19 @@
     "hostprivacyurl": "https:\/\/www.zencastr.com\/privacy-policy",
     "notes": "",
     "pi-slug": "zencastr.com"
+  },
+  {
+    "pattern": "api.riverside.fm",
+    "rss-pattern": "api.riverside.fm",
+    "hostname": "Riverside",
+    "retailer": "1",
+    "iab": "0",
+    "abilities_stats": "0",
+    "abilities_tracking": "0",
+    "abilities_dynamicaudio": "0",
+    "hosturl": "https:\/\/riverside.com",
+    "hostprivacyurl": "https:\/\/riverside.com\/privacy-policy",
+    "notes": "",
+    "pi-slug": "riverside"
   }
 ]
