@@ -2737,8 +2737,8 @@
     "pi-slug": "zencastr.com"
   },
   {
-    "pattern": "api.riverside.fm",
-    "rss-pattern": "api.riverside.fm",
+    "pattern": ".riverside.fm",
+    "rss-pattern": ".riverside.fm",
     "hostname": "Riverside",
     "retailer": "1",
     "iab": "0",
