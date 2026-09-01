@@ -2777,5 +2777,19 @@
     "hostprivacyurl": "https:\/\/riverside.com\/privacy-policy",
     "notes": "",
     "pi-slug": "riverside"
+  },
+  {
+    "pattern": "cdn.truefans.fm",
+    "rss-pattern": "feeds.truefans.fm",
+    "hostname": "TrueFans",
+    "retailer": "1",
+    "iab": "0",
+    "abilities_stats": "1",
+    "abilities_tracking": "0",
+    "abilities_dynamicaudio": "1",
+    "hosturl": "https:\/\/truefans.fm",
+    "hostprivacyurl": "https:\/\/truefans.fm\/privacy",
+    "notes": "",
+    "pi-slug": "truefans"
   }
 ]
