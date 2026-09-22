@@ -251,6 +251,20 @@
     "notes": "DAI detailed here: https:\/\/bcast.fm\/features - no attribution visible",
     "pi-slug": "bcast.fm"
   },
+    {
+    "pattern": "media.beehiiv.com",
+    "rss-pattern": "rss.beehiiv.com",
+    "hostname": "beehiiv",
+    "retailer": "1",
+    "iab": "1",
+    "abilities_stats": "1",
+    "abilities_tracking": "0",
+    "abilities_dynamicaudio": "0",
+    "hosturl": "https:\/\/beehiiv.com",
+    "hostprivacyurl": "https:\/\/beehiiv.com\/privacy",
+    "notes": "",
+    "pi-slug": "beehiiv.com"
+  },
   {
     "pattern": "blogtalkradio.com",
     "rss-pattern": "blogtalkradio.com",
