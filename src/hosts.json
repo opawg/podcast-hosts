@@ -910,6 +910,20 @@
     "pi-slug": "Podbean"
   },
   {
+    "pattern": "podcast.utilarium.app",
+    "rss-pattern": "podcast.utilarium.app",
+    "hostname": "Podcast Host by utilarium",
+    "retailer": "1",
+    "iab": "0",
+    "abilities_stats": "1",
+    "abilities_tracking": "0",
+    "abilities_dynamicaudio": "0",
+    "hosturl": "https:\/\/podcast.utilarium.app",
+    "hostprivacyurl": "https:\/\/podcast.utilarium.app\/privacy\/",
+    "notes": "Free host. Download counts by day, app family and country; no IP stored. No ads inserted.",
+    "pi-slug": ""
+  },
+  {
     "pattern": "podcastwebsites.com",
     "rss-pattern": "",
     "hostname": "Podcast Websites",
